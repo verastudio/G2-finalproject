@@ -1,6 +1,6 @@
 # 📗 Group 2 Final project 
 + Last updated (0514 by MK316)
-+ Presentation is scheduled on 6/18 (Tuesday)
++ Presentation is scheduled on June 18 (Tuesday)
 + Overview of the project here :-)
 
 ## Useful Links

@@ -8,7 +8,7 @@
 
 ## Lesson Materials
 
-### Story 4: The Lighthouse Keeper’s Lantern 
+### Story Title: The Lighthouse Keeper’s Lantern 
 + [text link](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story04.txt)
 + [image link](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/Story04.png)
 

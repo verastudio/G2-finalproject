@@ -4,7 +4,7 @@
 + Overview of the project here :-)
 
 ## Useful Links
-|🎯[Emoji](https://gist.github.com/rxaviers/7360908) | 🎯[Text material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story04.txt) | 🎯[CodePage] | 🎯[APP#1] | 🎯[APP#2] |
+|🎯[Emoji](https://gist.github.com/rxaviers/7360908) | 🎯[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) |🎯[Text material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story04.txt) | 🎯[CodePage] | 🎯[APP#1] | 🎯[APP#2] |
 
 ## Lesson Materials
 

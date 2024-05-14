@@ -6,6 +6,8 @@
 ## Useful Links
 |🎯[Emoji](https://gist.github.com/rxaviers/7360908) | 🎯[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) |🎯[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story04.txt) | 🎯[CodePage] | 🎯[APP#1] | 🎯[APP#2] |
 
+## Lesson Plan
+
 ## Lesson Materials
 
 ### Story Title: The Lighthouse Keeper’s Lantern 

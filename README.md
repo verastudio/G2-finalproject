@@ -1,5 +1,6 @@
 # 📗 Group 2 Final project 
 + Last updated (0514 by MK316)
++ Presentation on 6/18 (Tuesday)
 + Overview of the project here :-)
 
 |🎯[Emoji](https://gist.github.com/rxaviers/7360908) | 🎯[Text material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story04.txt) |

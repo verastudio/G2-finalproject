@@ -22,4 +22,15 @@ In a small coastal town, the aging lighthouse keeper, Mr. Elias, and his grandso
 ## Final project
 
 
-dfggdsfgdafgadsfsadfsdaf
+### Learning programs
+
+1. wordcloud
+- 수업 전에 브레인 스토밍으로 단어를 보여준 뒤 내용 창작해보기
+- 수업 후 마무리 활동으로 단어를 보고 1m summary 해보기. (순서 배열 느낌으로다가 스토리 조각 내서 학생들에게 나눠주고 다 맞춘 학생들에게 스크립트 카톡으로 배부. 그 스크립트를 wordcloud 코드에 돌려서 wordcloud 생성 후)
+- 
+
+
+
+허깅페이스 = colab+ 언제든지 사이트에서 실행 가능 (=언제든지 사람들이 접속 가능한 코드 프로그램)
+
+

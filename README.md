@@ -12,7 +12,7 @@
 ## Introduction (Soolim)
 + [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Lesson%20Plan.md)
 
-##  📋 Lesson Plan: The Lighthouse Lesson (Taehwi, Jungsookm, Minyoung)
+##  📋 Lesson Plan: The Lighthouse Lesson (Taehwi, Jungsook, Minyoung)
 1. Warm-Up
 2. Audio Keyword Hunt
 3. Word Cloud Exploration and Sentence Creation

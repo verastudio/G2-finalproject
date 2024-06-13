@@ -23,8 +23,8 @@
 
 Welcome, all Keyword hunters!
 
-✅ **App #1: Online Dictionary**
-✅ **App #2: Keyword Cloud**
+✅ **App #1: Online Dictionary**  (workng on..)
+✅ **App #2: Keyword Cloud**   (Working on..)
 
 🔹 Steps
 1. T plays five key sentences from the story for the whole class.

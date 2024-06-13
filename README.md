@@ -8,8 +8,9 @@
 ) | 🎯[CodePage](https://github.com/verastudio/G2-finalproject/blob/main/FPG02.ipynb) | 🎯[APP#1] | 🎯[APP#2] |
 
 ## Introduction
-+ [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Introduction%20%26%20Conclusion)
++ [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Lesson%20Plan.md)
 ## Lesson Materials
+
 
 ### Story Title: The Lighthouse Keeper’s Lantern 
 + [text link](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story04.txt)

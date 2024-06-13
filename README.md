@@ -19,7 +19,8 @@
 
 ### 2. Audio Keyword Hunt
 Welcome, all treasure hunters! Are you ready for an audio adventure? As you listen to this story, put on your detective hats and try to find at least one keyword in each of these sentences. You have five sentences to go! Let's get started! 
-(비디오 파일, 구글 폼, 코드 첨부 예정 by 수림)
+(위 멘트는 Teacher Talk 대신, 영상으로 첨부할게요 by 수림)
+(구글 폼, 코드 첨부 예정 by 수림)
 
 ### 3. Word Cloud Exploration and Sentence Creation
 ### 4. Story Prediction and Writing

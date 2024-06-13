@@ -29,7 +29,7 @@ Welcome, all Keyword hunters!
 3. Pairs select the most important keyword for each sentence and submit their choices using Google Forms.
 4. T generates a live word cloud.
 
-🔹Pair Acticity
+🔹Pair Activity
 [Let's join in the Audio Keyword Hunt](https://forms.gle/uyBgxdJQgPVdK2DZ8)  (To be updated by 0613)
 
 

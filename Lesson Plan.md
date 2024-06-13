@@ -11,7 +11,7 @@
 **1️.** Students will be able to extract and identify keywords from listening passages.  
 **2.** Students will be able to reconstruct story sequences based on audio prompts.  
 **3.** Students will be able to collaboratively write a continuation of the story.  
-**4.** Students will write thank-you notes using learned phrases.  
+**4.** Students will be able to write thank-you notes using learned phrases.  
 
 ---
 

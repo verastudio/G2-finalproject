@@ -26,7 +26,7 @@ Welcome, all Keyword hunters!
 
 🔹[Keyword Hunt](https://forms.gle/uyBgxdJQgPVdK2DZ8)  (코딩 - working on - Soolim)
 
- ✅ **App #1: Online Dictionary**  (workng on..) <br>
+ ✅ **App #1: Online Dictionary**  (workng on..) 키워드에 대한 이미지+발음+예문 <br>
  ✅ **App #2: Keyword Cloud**   (Working on..)
 
 🔹 Steps

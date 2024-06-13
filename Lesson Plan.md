@@ -7,6 +7,7 @@
   **🔳 Time:** 45 minutes  
   
   **🔳 Objectives:**   
+  
 1️. Students will extract and identify keywords from listening passages.  
 2️. Students will create meaningful sentences using identified keywords.  
 3. Students will predict story content using keywords.  

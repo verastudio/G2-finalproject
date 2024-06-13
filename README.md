@@ -41,7 +41,7 @@ Welcome, all Keyword hunters!
 
 🔹 Steps:
 1. Using keywords, students post their predicted story by filling in the blanks on Padlet.
-2. The teacher reviews and discusses predictions on Padlet.
+2. T reviews and discusses predictions on Padlet.
 3. Students explore the online dictionary again if needed.
    
 ### 4. Story Reconstruction and Listening Practice

@@ -26,8 +26,8 @@ Welcome, all Keyword hunters!
 
 🔹[Keyword Hunt](https://forms.gle/uyBgxdJQgPVdK2DZ8)  (코딩 - working on - Soolim)
 
- ✅ **App #1: Online Dictionary**  (workng on..) 키워드에 대한 이미지+발음+예문 <br>
- ✅ **App #2: Keyword Cloud**   (Working on..)
+ ✅ **App #1: Online Dictionary**  키워드에 대한 이미지+발음+예문 <br>
+ ✅ **App #2: Keyword Cloud**   (Soolim Working on..)
 
 🔹 Steps
 1. T plays five key sentences from the story for the whole class.
@@ -61,9 +61,9 @@ After taking over as the lighthouse keeper, the grandson faced his first major c
 ### 5. Writing a Note to the Grandfather
 🔹[Google Form](https://docs.google.com/forms/d/e/1FAIpQLSds_m7YxPB9jmIBc-nM8sM6rHu8iaahqvsrb1KRX0dGRgGjHw/viewform?usp=sf_link)
 
-### 6. Homework Assignment - Letter Maker
+### 6. Homework Assignment
 
-✅ **App #5: Letter Maker** 
+✅ **App #5: Letter Maker** (Soolim working on...)
 
 🔹[Submit here](https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu)
 

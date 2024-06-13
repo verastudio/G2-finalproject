@@ -39,7 +39,9 @@ Welcome, all Keyword hunters!
 
 ### 3. Story Reconstruction and Listening Practice
 
-### 4. Collaborative Writing: The Grandson's Journey as a Lighthouse Keeper (Padlet working on - Soolim)
+### 4. Collaborative Writing 
+
+### The Grandson's Journey as a Lighthouse Keeper (Padlet working on - Soolim)
 
 Welcome to our collaborative writing activity!
 You will work in small groups to write a short continuation of the story on Padlet.
@@ -56,7 +58,8 @@ After taking over as the lighthouse keeper, the grandson faced his first major c
    
 
 ### 5. Writing a Note to the Grandfather
-### 6. Homework Assignment (Writing a Letter to the Grandfather)
+
+### 6. Homework Assignment - Letter Maker
       
 
 ## Conclusion (Soolim)

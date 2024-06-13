@@ -27,9 +27,6 @@ Welcome, all treasure hunters!
 2. Students pair up and use an online dictionary to discuss and understand the keywords.
 3. Pairs select the most important keyword for each sentence and submit their choices using Google Forms.
 4. T generates a live word cloud.
-   
-(위 멘트는 Teacher Talk 대신, 영상으로 첨부할게요 by 수림)
-(구글 폼, 코드 첨부 예정 by 수림)
 
 [Let's join in the Audio Keyword Hunt](https://forms.gle/uyBgxdJQgPVdK2DZ8)  (To be updated by 0613)
 

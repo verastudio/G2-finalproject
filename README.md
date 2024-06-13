@@ -70,6 +70,7 @@ After taking over as the lighthouse keeper, the grandson faced his first major c
 ### 6. Homework Assignment
 
 ✅ **App #5: Letter Maker** (Soolim working on...)
+
 🔹[Letter Maker](https://huggingface.co/spaces/verastudio/Letter_Maker)
 
 🔹[Submit here](https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu)

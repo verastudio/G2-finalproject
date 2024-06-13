@@ -33,7 +33,7 @@ Welcome, all Keyword hunters!
 3. Pairs select the most important keyword for each sentence and submit their choices using Google Forms.
 4. T generates a live word cloud.
 
-🔹Pair Activity
+🔹
 [Let's join in the Audio Keyword Hunt](https://forms.gle/uyBgxdJQgPVdK2DZ8)  (코딩 - working on - Soolim)
 
 
@@ -44,7 +44,7 @@ Welcome, all Keyword hunters!
 Welcome to our collaborative writing activity!
 You will work in small groups to write a short continuation of the story on Padlet.
 
-[Padlet Link](https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu)
+🔹[Padlet Link](https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu)
 
 **Starting Sentence:**
 After taking over as the lighthouse keeper, the grandson faced his first major challenge when...

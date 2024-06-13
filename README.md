@@ -63,7 +63,7 @@ After taking over as the lighthouse keeper, the grandson faced his first major c
 
 ### 6. Homework Assignment - Letter Maker
 
-✅**App #5: Letter Maker**     
+✅ **App #5: Letter Maker**     
 
 ## Conclusion (Soolim)
 + [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Lesson%20Plan.md)

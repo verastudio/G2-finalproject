@@ -11,7 +11,7 @@
 **1️.** Students will extract and identify keywords from listening passages.  
 **2.** Students will predict story content using keywords.  
 **3.** Students will reconstruct story sequences based on audio prompts.  
-**54.** Students will write thank-you notes using learned phrases.  
+**4.** Students will write thank-you notes using learned phrases.  
 
 ---
 

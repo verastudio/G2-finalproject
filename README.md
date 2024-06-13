@@ -18,7 +18,8 @@
 + "What is the purpose of a lighthouse?"
 
 ### 2. Audio Keyword Hunt
-Welcome, all treasure hunters!
+
+Welcome, all Keyword hunters!
 
 ✅ **App #1: Audio Keyword Hunt**
 

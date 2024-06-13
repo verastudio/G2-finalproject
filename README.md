@@ -8,7 +8,7 @@
 ) | 🎯[CodePage](https://github.com/verastudio/G2-finalproject/blob/main/FPG02.ipynb) | 🎯[APP#1] | 🎯[APP#2] |
 
 ## Lesson Plan
-
++ [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Introduction%20%26%20Conclusion)
 ## Lesson Materials
 
 ### Story Title: The Lighthouse Keeper’s Lantern 

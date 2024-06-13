@@ -26,7 +26,7 @@ Welcome, all treasure hunters! Are you ready for an audio adventure? As you list
 ### 4. Story Prediction and Writing
 ### 5. Story Reconstruction and Listening Practice
 ### 6. Writing a Note to the Grandfather
-### 7. Homework Assignment
+### 7. Homework Assignment (Writing a Letter to the Grandfather)
       
 
 ## Conclusion (Soolim)

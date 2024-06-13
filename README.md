@@ -41,7 +41,7 @@ Welcome, all Keyword hunters!
 
 ### 4. Collaborative Writing 
 
-### The Grandson's Journey as a Lighthouse Keeper (Padlet working on - Soolim)
+**The Grandson's Journey as a Lighthouse Keeper**
 
 Welcome to our collaborative writing activity!
 You will work in small groups to write a short continuation of the story on Padlet.

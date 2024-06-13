@@ -9,10 +9,9 @@
   **🔹 Objectives:**   
   
 **1️.** Students will extract and identify keywords from listening passages.  
-**2️.** Students will create meaningful sentences using identified keywords.  
-**3.** Students will predict story content using keywords.  
-**4.** Students will reconstruct story sequences based on audio prompts.  
-**5️.** Students will write thank-you notes using learned phrases.  
+**2.** Students will predict story content using keywords.  
+**3.** Students will reconstruct story sequences based on audio prompts.  
+**54.** Students will write thank-you notes using learned phrases.  
 
 ---
 

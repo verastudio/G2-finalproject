@@ -14,7 +14,9 @@
 
 ##  📋 Lesson Plan: The Lighthouse Lesson (Taehwi, Jungsook, Minyoung)
 ### 1. Warm-Up
-Welcome, all treasure hunters! Are you ready for an audio adventure? As you listen to this story, put on your detective hats and try to find at least one keyword in each of these sentences. You have five sentences to go! Let's get started!
+Welcome, all treasure hunters! Are you ready for an audio adventure? As you listen to this story, put on your detective hats and try to find at least one keyword in each of these sentences. You have five sentences to go! Let's get started! 
+(비디오 파일 첨부 예정 by 수림)
+
 2. Audio Keyword Hunt
 3. Word Cloud Exploration and Sentence Creation
 4. Story Prediction and Writing

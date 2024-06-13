@@ -65,7 +65,7 @@ After taking over as the lighthouse keeper, the grandson faced his first major c
 
 ✅ **App #5: Letter Maker** 
 
-🔹[Submission](https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu)
+🔹[Submit here](https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu)
 
 ## Conclusion (Soolim)
 + [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Lesson%20Plan.md)

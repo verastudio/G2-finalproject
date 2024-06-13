@@ -11,8 +11,10 @@
 
 ## Introduction (Soolim)
 + [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Lesson%20Plan.md)
+(보시고 필요 없으면 지워주세요 :) - Soolim)
 
-##  📋 Lesson Plan: The Lighthouse Lesson (Taehwi, Jungsook, Minyoung)
+##  📋 Today's Topic: Lesson: The Lighthouse Lesson (Taehwi, Jungsook, Minyoung)
+
 ### 1. Warm-Up
 + "Have you ever seen a lighthouse? Where was it?" 
 + "What is the purpose of a lighthouse?"
@@ -21,20 +23,27 @@
 
 Welcome, all Keyword hunters!
 
-✅ **App #1: Audio Keyword Hunt**
+✅ **App #1: Online Dictionary**
+✅ **App #2: Keyword Cloud**
 
-🔹 Steps (쌤들 이해를 위해 옮겨놨는데, 보시고 필요 없으면 지워주세요 :) - Soolim)
+🔹 Steps
 1. T plays five key sentences from the story for the whole class.
 2. Students pair up and use an online dictionary to discuss and understand the keywords.
 3. Pairs select the most important keyword for each sentence and submit their choices using Google Forms.
 4. T generates a live word cloud.
 
 🔹Pair Activity
-[Let's join in the Audio Keyword Hunt](https://forms.gle/uyBgxdJQgPVdK2DZ8)  (To be updated by 0613)
+[Let's join in the Audio Keyword Hunt](https://forms.gle/uyBgxdJQgPVdK2DZ8)  (코딩 - working on - Soolim)
 
 
 
-### 3. Story Prediction and Writing
+### 3. Story Prediction and Writing (Padlet working on - Soolim)
+
+🔹 Steps:
+1. Using keywords, students post their predicted story by filling in the blanks on Padlet.
+2. The teacher reviews and discusses predictions on Padlet.
+3. Students explore the online dictionary again if needed.
+   
 ### 4. Story Reconstruction and Listening Practice
 ### 5. Writing a Note to the Grandfather
 ### 6. Homework Assignment (Writing a Letter to the Grandfather)

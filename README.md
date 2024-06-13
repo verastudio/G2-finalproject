@@ -22,6 +22,9 @@ Welcome, all treasure hunters! Are you ready for an audio adventure? As you list
 (위 멘트는 Teacher Talk 대신, 영상으로 첨부할게요 by 수림)
 (구글 폼, 코드 첨부 예정 by 수림)
 
+[Audio Keyword Hunt] https://forms.gle/uyBgxdJQgPVdK2DZ8
+
+
 ### 3. Word Cloud Exploration and Sentence Creation
 ### 4. Story Prediction and Writing
 ### 5. Story Reconstruction and Listening Practice

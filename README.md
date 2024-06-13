@@ -14,7 +14,13 @@
 
 
 ##  📋 Today's Topic: The Lighthouse Lesson (Taehwi, Jungsook, Minyoung)
+
+#Group2 To=do list
 (보시고 필요 없는 부분 지워주세요 :) - Soolim)
+앱 QR 코드 만들기
+Online dictionary 만들기- text 참고ㅓ해서 이미지, 예문, 발음 추가할 것
+T's talk, S's talk 
+수업자료 만들기
 
 ### 1. Warm-Up
 + "Have you ever seen a lighthouse? Where was it?" 

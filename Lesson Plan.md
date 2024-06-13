@@ -1,6 +1,6 @@
 # Lesson Plan: Guiding the Way: Enhancing Listening and Writing Skills through Technology
 
-**Context:** 2nd Year Middle School Students (중학교 2학년), Intermediate Level  
+**Context:** 2nd Year Middle School Students at Intermediate Level  
 **Time:** 45 minutes  
 **Objectives:** 
 1. Students will extract and identify keywords from listening passages.

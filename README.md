@@ -13,7 +13,7 @@
 + [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Lesson%20Plan.md)
 
 
-##  📋 Today's Topic: Lesson: The Lighthouse Lesson (Taehwi, Jungsook, Minyoung)
+##  📋 Today's Topic: The Lighthouse Lesson (Taehwi, Jungsook, Minyoung)
 (보시고 필요 없는 부분 지워주세요 :) - Soolim)
 ### 1. Warm-Up
 + "Have you ever seen a lighthouse? Where was it?" 

@@ -18,7 +18,7 @@
 
 ## 💡 Lesson Outline
 
-| **Activity** | **Time** | **Objective** | **Details** |
+| **Activity** | **Time** | **Purpose** | **Details** |
 |--------------|----------|---------------|-------------|
 | **1. Warm-Up** | 5 m | Activate prior knowledge and engage students. | Brief discussion on lighthouses and their importance. <br>  **🔹 Example Questions:** <br>- "Have you ever seen a lighthouse? Where was it?" <be> - "What is the purpose of a lighthouse?" |
 | **2. Listening and Keyword Extraction** | 10 m | Extract and identify keywords from listening passages. | **Implementation:** <br> - **App:** Google Forms for multiple-choice keyword selection. <br> - **Steps:** <br> 1. Play five key sentences from the story. <br> 2. Students use Google Forms to select the keyword from each sentence. <br> 3. Responses are downloaded and used to generate a live word cloud with WordClouds.com. <br> **Purpose:** Listening practice, understanding main ideas, and keyword learning. <br> **Worksheet Example:** <br> Google Form questions with multiple-choice options for keywords. <br> Live word cloud generation from collected responses. |

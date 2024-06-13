@@ -23,7 +23,7 @@
 
 Welcome, all Keyword hunters!
 
-✅ **App #1: Online Dictionary**  (workng on..)
+✅ **App #1: Online Dictionary**  (workng on..) <br>
 ✅ **App #2: Keyword Cloud**   (Working on..)
 
 🔹 Steps

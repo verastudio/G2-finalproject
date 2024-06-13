@@ -23,7 +23,7 @@ Welcome, all Keyword hunters!
 
 ✅ **App #1: Audio Keyword Hunt**
 
-🔹 Steps
+🔹 Steps (우선 옮겨놨는데, 필요 없으면 지워주세요 :)
 1. T plays five key sentences from the story for the whole class.
 2. Students pair up and use an online dictionary to discuss and understand the keywords.
 3. Pairs select the most important keyword for each sentence and submit their choices using Google Forms.

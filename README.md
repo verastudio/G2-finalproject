@@ -13,7 +13,8 @@
 + [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Lesson%20Plan.md)
 
 ##  📋 Lesson Plan: The Lighthouse Lesson (Taehwi, Jungsook, Minyoung)
-1. Warm-Up
+###1. Warm-Up
+Welcome, all treasure hunters! Are you ready for an audio adventure? As you listen to this story, put on your detective hats and try to find at least one keyword in each of these sentences. You have five sentences to go! Let's get started!
 2. Audio Keyword Hunt
 3. Word Cloud Exploration and Sentence Creation
 4. Story Prediction and Writing

@@ -13,7 +13,14 @@
 + [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Lesson%20Plan.md)
 
 ## Lesson Plan (Taehwi, Jungsookm, Minyoung)
-
+1. Warm-Up
+2. Audio Keyword Hunt
+3. Word Cloud Exploration and Sentence Creation
+4. Story Prediction and Writing
+5. Story Reconstruction and Listening Practice
+6. Writing a Note to the Grandfather
+7. Homework Assignment
+      
 
 ## Conclusion (Soolim)
 + [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Lesson%20Plan.md)

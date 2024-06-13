@@ -15,6 +15,7 @@
 
 ##  📋 Today's Topic: The Lighthouse Lesson (Taehwi, Jungsook, Minyoung)
 (보시고 필요 없는 부분 지워주세요 :) - Soolim)
+
 ### 1. Warm-Up
 + "Have you ever seen a lighthouse? Where was it?" 
 + "What is the purpose of a lighthouse?"
@@ -41,15 +42,16 @@ Welcome, all Keyword hunters!
 ### 4. Collaborative Writing: The Grandson's Journey as a Lighthouse Keeper (Padlet working on - Soolim)
 
 Welcome to our collaborative writing activity!
-You will work in small groups to write a short continuation of the story, focusing on the grandson's journey after becoming the lighthouse keeper.
+You will work in small groups to write a short continuation of the story on Padlet.
 
-**Starting Sentence**
+[Padlet Link](https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu)
+**Starting Sentence:**
 After taking over as the lighthouse keeper, the grandson faced his first major challenge when...
 
 🔹 Rules :
 1. Group Agreement
 2. Use Padlet
-3. Use online dictionary app wisely
+3. Use online dictionary wisely
    
 
 ### 5. Writing a Note to the Grandfather

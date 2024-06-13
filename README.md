@@ -64,6 +64,7 @@ After taking over as the lighthouse keeper, the grandson faced his first major c
 ### 6. Homework Assignment - Letter Maker
 
 ✅ **App #5: Letter Maker** 
+
 🔹[Submission](https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu)
 
 ## Conclusion (Soolim)

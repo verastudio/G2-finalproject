@@ -5,7 +5,7 @@
 
 ## Useful Links
 |🎯[Emoji](https://gist.github.com/rxaviers/7360908) | 🎯[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) |🎯[Reading material](https://raw.githubusercontent.com/verastudio/verastudio/main/story04.txt) |🎯[image](https://github.com/verastudio/G2-finalproject/assets/163081348/32781da7-8e86-4646-8ce7-4e4994413bd0)
-) | 🎯[CodePage](https://github.com/verastudio/G2-finalproject/blob/main/FPG02.ipynb) | 🎯[APP#1] | 🎯[APP#2] |
+) | 🎯[CodePage](https://github.com/verastudio/G2-finalproject/blob/main/FPG02.ipynb) | 🎯[APP#1] | 🎯[APP#2] |🎯[APP#3] |🎯[APP#4] |🎯[APP#5] |
 
 
 
@@ -62,7 +62,7 @@ After taking over as the lighthouse keeper, the grandson faced his first major c
 🔹[Google Form](https://docs.google.com/forms/d/e/1FAIpQLSds_m7YxPB9jmIBc-nM8sM6rHu8iaahqvsrb1KRX0dGRgGjHw/viewform?usp=sf_link)
 
 ### 6. Homework Assignment - Letter Maker
-✅App #5: Letter Maker     
+✅**App #5: Letter Maker**     
 
 ## Conclusion (Soolim)
 + [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Lesson%20Plan.md)

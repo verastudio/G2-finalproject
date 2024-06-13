@@ -11,10 +11,10 @@
 
 ## Introduction (Soolim)
 + [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Lesson%20Plan.md)
-(보시고 필요 없으면 지워주세요 :) - Soolim)
+
 
 ##  📋 Today's Topic: Lesson: The Lighthouse Lesson (Taehwi, Jungsook, Minyoung)
-
+(보시고 필요 없는 부분 지워주세요 :) - Soolim)
 ### 1. Warm-Up
 + "Have you ever seen a lighthouse? Where was it?" 
 + "What is the purpose of a lighthouse?"

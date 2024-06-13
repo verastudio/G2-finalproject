@@ -1,4 +1,4 @@
-# Lesson Plan: The Lighthouse Lesson
+# 💡 Lesson Plan: The Lighthouse Lesson
 Enhancing Listening and Writing Skills through Technology
 
 + **Context:** 2nd Year Middle School Students at Intermediate Level  
@@ -12,7 +12,7 @@ Enhancing Listening and Writing Skills through Technology
 
 ---
 
-## Lesson Outline
+## 💡 Lesson Outline
 
 | **Activity** | **Time** | **Objective** | **Details** |
 |--------------|----------|---------------|-------------|
@@ -26,20 +26,20 @@ Enhancing Listening and Writing Skills through Technology
 
 ---
 
-## Conclusion
+## 💡 Conclusion
 
-**Benefits:**
+** 😃 Benefits:**
 1. **Engagement:** The use of interactive apps like Google Forms, Padlet, and WordClouds.com makes the lesson more engaging and interactive for students.
 2. **Skill Integration:** The lesson effectively integrates listening and writing skills, providing a comprehensive learning experience.
 3. **Collaboration:** Students collaborate on tasks using Google Docs/Slides, promoting teamwork and peer learning.
 4. **Immediate Feedback:** Apps like Google Forms and Padlet allow for immediate feedback and real-time updates, enhancing the learning process.
 
-**Limitations:**
+** 😞 Limitations:**
 1. **Technology Dependence:** The lesson heavily relies on technology, which can be a limitation if there are technical issues or if students have limited access to devices.
 2. **Time Management:** Ensuring that all activities fit within the 45-minute timeframe may be challenging, especially if students need more time to complete tasks.
 3. **Varied Pacing:** Students work at different paces, so some might finish early while others need more time, which can be difficult to manage in a single class period.
 
-**Improvements:**
+** 😉 Improvements:**
 1. **Backup Plans:** Prepare non-digital alternatives for each activity in case of technical difficulties to ensure the lesson can proceed smoothly.
 2. **Pacing Adjustments:** Provide differentiated pacing guides and allow for flexible timing on activities to accommodate different learning speeds.
 3. **Additional Support:** Incorporate brief tutorial videos or instructions on how to use each app for students who may be unfamiliar with the technology.

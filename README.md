@@ -36,15 +36,16 @@ Welcome, all Keyword hunters!
 [Let's join in the Audio Keyword Hunt](https://forms.gle/uyBgxdJQgPVdK2DZ8)  (코딩 - working on - Soolim)
 
 
+### 3. Story Reconstruction and Listening Practice
 
-### 3. Story Prediction and Writing (Padlet working on - Soolim)
+### 4. Collaborative Writing: The Grandson's Journey as a Lighthousee Keeper (Padlet working on - Soolim)
 
 🔹 Steps:
 1. Using keywords, students post their predicted story by filling in the blanks on Padlet.
 2. T reviews and discusses predictions on Padlet.
 3. Students explore the online dictionary again if needed.
    
-### 4. Story Reconstruction and Listening Practice
+
 ### 5. Writing a Note to the Grandfather
 ### 6. Homework Assignment (Writing a Letter to the Grandfather)
       

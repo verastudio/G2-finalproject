@@ -38,12 +38,18 @@ Welcome, all Keyword hunters!
 
 ### 3. Story Reconstruction and Listening Practice
 
-### 4. Collaborative Writing: The Grandson's Journey as a Lighthousee Keeper (Padlet working on - Soolim)
+### 4. Collaborative Writing: The Grandson's Journey as a Lighthouse Keeper (Padlet working on - Soolim)
 
-🔹 Steps:
-1. Using keywords, students post their predicted story by filling in the blanks on Padlet.
-2. T reviews and discusses predictions on Padlet.
-3. Students explore the online dictionary again if needed.
+Welcome to our collaborative writing activity!
+You will work in small groups to write a short continuation of the story, focusing on the grandson's journey after becoming the lighthouse keeper.
+
+**Starting Sentence**
+After taking over as the lighthouse keeper, the grandson faced his first major challenge when...
+
+🔹 Rules :
+1. Group Agreement
+2. Use Padlet
+3. Use online dictionary app wisely
    
 
 ### 5. Writing a Note to the Grandfather

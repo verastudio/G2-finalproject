@@ -16,7 +16,7 @@
 
 ---
 
-## 💡 Lesson Outline
+## 💡 Lesson Plan
 
 | **Activity** | **Time** | **Objectives** | **Details** |
 |--------------|----------|---------------|-------------|

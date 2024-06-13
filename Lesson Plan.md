@@ -7,11 +7,11 @@
   **🔳 Time:** 45 minutes  
   
   **🔳 Objectives:** 
-1. Students will extract and identify keywords from listening passages.
-2. Students will create meaningful sentences using identified keywords.
+1️⃣ Students will extract and identify keywords from listening passages.
+2️⃣ Students will create meaningful sentences using identified keywords.
 3. Students will predict story content using keywords.
 4. Students will reconstruct story sequences based on audio prompts.
-5. Students will write thank-you notes using learned phrases.
+5️⃣ Students will write thank-you notes using learned phrases.
 
 ---
 

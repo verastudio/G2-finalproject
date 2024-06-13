@@ -6,7 +6,7 @@
   **🔳 Context:** 2nd Year Middle School Students at Intermediate Level  
   **🔳 Time:** 45 minutes  
   
-  **🔳 Objectives:**   
+  **🔹 Objectives:**   
   
 1️. Students will extract and identify keywords from listening passages.  
 2️. Students will create meaningful sentences using identified keywords.  

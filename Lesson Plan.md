@@ -1,6 +1,6 @@
-# 💡 Lesson Plan: The Lighthouse Lesson
+#  📋 Lesson Plan: The Lighthouse Lesson
 
-## Lesson Overview
+## 💡 Lesson Overview
 
 + **Goal:** Enhancing Listening and Writing Skills through Technology
 + **Context:** 2nd Year Middle School Students at Intermediate Level  

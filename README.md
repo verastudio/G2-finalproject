@@ -18,9 +18,10 @@
 + "What is the purpose of a lighthouse?"
 
 ### 2. Audio Keyword Hunt
-Welcome, all treasure hunters! Are you ready for an audio adventure? As you listen to this story, put on your detective hats and try to find at least one keyword in each of these sentences. You have five sentences to go! Let's get started! 
+Welcome, all treasure hunters!
 
-✅ App #1: Audio Keyword Hunt
+✅ **App #1: Audio Keyword Hunt**
+
 🔹 Steps:
 1. T plays five key sentences from the story for the whole class.
 2. Students pair up and use an online dictionary to discuss and understand the keywords.

@@ -26,8 +26,8 @@ Welcome, all Keyword hunters!
 
 🔹[Keyword Hunt](https://forms.gle/uyBgxdJQgPVdK2DZ8)  (코딩 - working on - Soolim)
 
->✅ **App #1: Online Dictionary**  (workng on..) <br>
->✅ **App #2: Keyword Cloud**   (Working on..)
+ ✅ **App #1: Online Dictionary**  (workng on..) <br>
+ ✅ **App #2: Keyword Cloud**   (Working on..)
 
 🔹 Steps
 1. T plays five key sentences from the story for the whole class.

@@ -24,6 +24,8 @@
 
 Welcome, all Keyword hunters!
 
+🔹[Keyword Hunt](https://forms.gle/uyBgxdJQgPVdK2DZ8)  (코딩 - working on - Soolim)
+
 ✅ **App #1: Online Dictionary**  (workng on..) <br>
 ✅ **App #2: Keyword Cloud**   (Working on..)
 
@@ -32,9 +34,6 @@ Welcome, all Keyword hunters!
 2. Students pair up and use an online dictionary to discuss and understand the keywords.
 3. Pairs select the most important keyword for each sentence and submit their choices using Google Forms.
 4. T generates a live word cloud.
-
-🔹
-[Let's join in the Audio Keyword Hunt](https://forms.gle/uyBgxdJQgPVdK2DZ8)  (코딩 - working on - Soolim)
 
 
 ### 3. Story Reconstruction and Listening Practice

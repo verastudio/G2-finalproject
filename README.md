@@ -33,11 +33,11 @@ Welcome, all Keyword hunters!
 [Let's join in the Audio Keyword Hunt](https://forms.gle/uyBgxdJQgPVdK2DZ8)  (To be updated by 0613)
 
 
-### 3. Word Cloud Exploration and Sentence Creation
-### 4. Story Prediction and Writing
-### 5. Story Reconstruction and Listening Practice
-### 6. Writing a Note to the Grandfather
-### 7. Homework Assignment (Writing a Letter to the Grandfather)
+
+### 3. Story Prediction and Writing
+### 4. Story Reconstruction and Listening Practice
+### 5. Writing a Note to the Grandfather
+### 6. Homework Assignment (Writing a Letter to the Grandfather)
       
 
 ## Conclusion (Soolim)

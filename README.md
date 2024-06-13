@@ -22,12 +22,13 @@ Welcome, all treasure hunters!
 
 ✅ **App #1: Audio Keyword Hunt**
 
-🔹 Steps:
+🔹 Steps
 1. T plays five key sentences from the story for the whole class.
 2. Students pair up and use an online dictionary to discuss and understand the keywords.
 3. Pairs select the most important keyword for each sentence and submit their choices using Google Forms.
 4. T generates a live word cloud.
 
+🔹Pair Acticity
 [Let's join in the Audio Keyword Hunt](https://forms.gle/uyBgxdJQgPVdK2DZ8)  (To be updated by 0613)
 
 

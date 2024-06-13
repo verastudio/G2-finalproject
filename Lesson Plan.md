@@ -8,9 +8,9 @@
   
   **🔹 Objectives:**   
   
-**1️.** Students will extract and identify keywords from listening passages.  
-**2.** Students will predict story content using keywords.  
-**3.** Students will reconstruct story sequences based on audio prompts.  
+**1️.** Students will be able to extract and identify keywords from listening passages.  
+**2.** Students will be able to reconstruct story sequences based on audio prompts.  
+**3.** Students will be able to collaboratively write a continuation of the story.  
 **4.** Students will write thank-you notes using learned phrases.  
 
 ---
@@ -22,7 +22,7 @@
 | **1. Warm-Up** | 5 m | Activate prior knowledge and engage students. | Brief discussion on lighthouses and their importance. <br>  **🔹 Example Questions:** <br>- "Have you ever seen a lighthouse? Where was it?" <be> - "What is the purpose of a lighthouse?" |
 | **2. Audio Keyword Hunt** | 10 m | To engage students in listening and comprehension by identifying keywords for scaffolded learning | ✅ **App #1: Online Dictionary** <br>     ✅ **App# 2: Word Cloud** <br>🔹 **Steps:** <br> **1.** T plays five key sentences from the story for the whole class. <br> **2.**  Students pair up and use an online dictionary to discuss and understand the keywords. <br> **3.**  Pairs select the most important keyword for each sentence and submit their choices using Google Forms. <br>  **4.** T generates a live word cloud. <br> |🔹**Purpose:** Listening practice, understanding main ideas, and keyword learning. <br> 🔹**Worksheet Example:** <br> Google Form questions with multiple-choice options for keywords. <br> Live word cloud generation from collected responses. |
 | **3. Sentence Creation with Keywords on Padlet** | 10 m | Predict story content and create a continuation using keywords. | 🔹 **Steps:** <br> **1.**  Using keywords, students post their predicted story by filling in the blanks on Padlet. <br> **2.**  Teacher reviews and discusses predictions on Padlet. <br> **3.** Students explore the online dictionary again if needed. <br>  |
-| **4. Story Reconstruction and Listening Practice** | 10 m | Reconstruct the story sequence based on audio prompts. | **Implementation:** <br> - ✅**App #3:** Audio files and images for sequencing. <br> - **Steps:** <br> 1. Students listen to mixed-up sentences from the story. <br> 2. Students use corresponding images to sequence the sentences correctly. <br> **Purpose:** Enhance listening skills and story comprehension. <br> **Worksheet Example:** <br> Audio clips of mixed-up sentences. <br> Images corresponding to each sentence for sequencing. |
+| **4. Collaborative Writing** | 10 m | To engage students in a controlled and focused collaborative writing exercise. | **Implementation:**  <br> - **Steps:** <br> 1. Students use the provided starting sentence to collaboratively write 2-3 sentences. <br> 2.  Discuss with group members to ensure everyone contributes and check word meanings using an online dictionary if needed. <br> **3.** Students post their story on Padlet. <br> **Purpose:** Collaborative writing, teamwork, using digital tools, and enhancing creativity. |
 | **5. Writing a Note to the Grandfather** | 10 m | Write thank-you notes using learned phrases. | **Implementation:** <br> - ✅**App #4:** Google Forms for note submission and real-time display. <br> - **Steps:** <br> 1. Students write thank-you notes using phrases learned in class. <br> 2. Notes are submitted via Google Forms and displayed as post-it notes on the screen. <br> **Purpose:** Practice writing polite expressions and gratitude. <br> **Worksheet Example:** <br> Google Form prompts for thank-you notes. <br> Real-time display of notes. |
 | **6. Homework Assignment** | - | Extend writing practice with a formal letter. | **Activity:** Writing a letter to Mr. Elias using a provided template. <br> **Worksheet Example:** <br> Letter template with sections (Dear..., Intro, Body, Conclusion). <br> Students write a full letter and submit it for review in the next class. |
 

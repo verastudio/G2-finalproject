@@ -1,4 +1,5 @@
-# Lesson Plan: Guiding the Way: Enhancing Listening and Writing Skills through Technology
+# Lesson Plan: The Lighthouse Lesson
+Enhancing Listening and Writing Skills through Technology
 
 + **Context:** 2nd Year Middle School Students at Intermediate Level  
 + **Time:** 45 minutes  

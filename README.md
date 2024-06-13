@@ -7,8 +7,16 @@
 |🎯[Emoji](https://gist.github.com/rxaviers/7360908) | 🎯[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) |🎯[Reading material](https://raw.githubusercontent.com/verastudio/verastudio/main/story04.txt) |🎯[image](https://github.com/verastudio/G2-finalproject/assets/163081348/32781da7-8e86-4646-8ce7-4e4994413bd0)
 ) | 🎯[CodePage](https://github.com/verastudio/G2-finalproject/blob/main/FPG02.ipynb) | 🎯[APP#1] | 🎯[APP#2] |
 
+## Lesson Plan
+
 ## Introduction
 + [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Lesson%20Plan.md)
+
+## Conclusion
+
+
+
+
 ## Lesson Materials
 
 
@@ -18,7 +26,6 @@
 
 **<Synopsis>**
 In a small coastal town, the aging lighthouse keeper, Mr. Elias, and his grandson, Jamie, faced a crisis when the town council decided to replace the old lighthouse lamp with a modern electronic navigation system. During a fierce storm, the new system failed, jeopardizing the safety of ships at sea. In desperation, Elias handed Jamie an old lantern to signal the ships, a dim but steadfast light. Jamie's brave effort with the lantern successfully guided a ship to safety, proving the old lighthouse's worth. The council restored and enhanced the lighthouse, learning the value of blending tradition with innovation. Inspired, Jamie eventually became the lighthouse keeper, merging old and new navigational methods to ensure the lighthouse remained a reliable beacon. This story underscored the enduring importance of wisdom and tradition in modern times.
-
 
 
 ## Final project

@@ -2,10 +2,10 @@
 
 ## 💡 Lesson Overview
 
-**🔳 Goal:** Enhancing Listening and Writing Skills through Technology
-**🔳 Context:** 2nd Year Middle School Students at Intermediate Level  
-**🔳 Time:** 45 minutes  
-** Objectives:** 
+  **🔳 Goal:** Enhancing Listening and Writing Skills through Technology
+  **🔳 Context:** 2nd Year Middle School Students at Intermediate Level  
+  **🔳 Time:** 45 minutes  
+  **🔳 Objectives:** 
 1. Students will extract and identify keywords from listening passages.
 2. Students will create meaningful sentences using identified keywords.
 3. Students will predict story content using keywords.

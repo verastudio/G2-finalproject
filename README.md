@@ -17,12 +17,11 @@
 
 #Group2 To-do list
 
-(이 페이지는 수업을 위한 거라 보시고 원하시는 대로 수정해 주세요 :) - Soolim) <br>
-수업 내용에 변동이 생기면 저에게 꼭 알려주세요! 레슨플랜도 같이 수정해야 해서요.<br>
-앱 QR 코드 만들기 <br>
-Online dictionary 만들기- text 참고ㅓ해서 이미지, 예문, 발음 추가할 것, <br>
-T's talk, S's talk 대략 정하고, 앱실행 해보기 <br>
-수업(발표)자료 만들기 <br>
+* T's talk, S's talk 대략 정하고, 앱실행 해보기
+* 그에 따라 수업 flow에 맞게 원하시는 대로 수정해 주세요. 앱도 수정하시거나 아예 새로 만드셔도 됩니다! :) - Soolim) <br>
+* 앱 QR 코드 만들기 <br>
+* Online dictionary 만들기- text 참고ㅓ해서 이미지, 예문, 발음 추가할 것, <br>
+
 
 
 ### 1. Warm-Up

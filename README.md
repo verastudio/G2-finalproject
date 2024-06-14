@@ -62,7 +62,7 @@ Welcome, all Keyword hunters!
 
  ✅ **App #3 Story Reconstruction**
 
-+[Story Reconstruction](https://a2051edcbdeb8629c8.gradio.live/)
++[Story Reconstruction](https://26e4fcda7e088180a5.gradio.live/)
 
 
 + Steps
@@ -94,29 +94,8 @@ Welcome, all Keyword hunters!
 + Steps
 1.Each group reviews the images from the story reconstruction activity.
 2. Each student selects a related keyword from the Keyword Cloud.
-3. Using the selected keyword, each student writes a summary for their assigned image.
-4. Post the summaries on Padlet and discuss them with other groups.
-   
-
-**The Grandson's Journey as a Lighthouse Keeper** <br>
-Welcome to our collaborative writing activity!
-You will work in small groups to write a short continuation of the story on Padlet.      
-<br>
- **Starting Sentence:**
- After taking over as the lighthouse keeper, the grandson faced his first major challenge when...
-
-🔹 Rules :
-1. Group Agreement
-2. Use Padlet
-3. Use online dictionary wisely
-   
-
-### 5. Writing a Note to the Grandfather
-
-✅ **App #4: Letter Maker**
-
-+ [Letter Maker](https://huggingface.co/spaces/verastudio/Letter_Maker)
-
+3. Using the selected keyword, each student writes a summa요
+  
 ![Letter Maker](https://github.com/verastudio/G2-finalproject/assets/163081348/e6b38f32-d934-4ed6-b9d1-fbe144217291)
 
 

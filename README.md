@@ -35,7 +35,7 @@ Welcome, all Keyword hunters!
 + [Keyword Hunt](https://forms.gle/uyBgxdJQgPVdK2DZ8)  (코딩 - working on - Soolim)
 
  ✅ **App #1: Online Dictionary**  키워드에 대한 이미지+발음+예문 <br>
- ✅ **App #2: Keyword Cloud**   (Soolim Working on..)
+ ✅ **App #2: Keyword Cloud**  [Link](https://huggingface.co/spaces/verastudio/keywordcloud)
 
 +  Steps
 1. T plays five key sentences from the story for the whole class.

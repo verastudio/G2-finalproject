@@ -101,7 +101,7 @@ You will work in small groups to write a short continuation of the story on Padl
 
 
 
-+ [Submit here](https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu)
++ [Submit on Padlet](https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu)
 
 
 ![Padlet](https://github.com/verastudio/G2-finalproject/assets/163081348/edc34d5a-9eff-499c-926b-ac3024c07510)

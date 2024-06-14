@@ -5,7 +5,7 @@
 
 ## Useful Links
 |🎯[Emoji](https://gist.github.com/rxaviers/7360908) | 🎯[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) |🎯[Reading material](https://raw.githubusercontent.com/verastudio/verastudio/main/story04.txt) |🎯[image](https://github.com/verastudio/G2-finalproject/assets/163081348/32781da7-8e86-4646-8ce7-4e4994413bd0)
-) | 🎯[CodePage](https://github.com/verastudio/G2-finalproject/blob/main/FPG02.ipynb) | 🎯[APP#1] | 🎯[APP#2] |🎯[APP#3] |🎯[APP#4] |🎯[APP#5](https://huggingface.co/spaces/verastudio/Letter_Maker) |
+) | 🎯[CodePage](https://github.com/verastudio/G2-finalproject/blob/main/FPG02.ipynb) | 🎯[APP#1] | 🎯[APP#2](https://huggingface.co/spaces/verastudio/keywordcloud) |🎯[APP#3] |🎯[APP#4] |🎯[APP#5](https://huggingface.co/spaces/verastudio/Letter_Maker) |
 
 
 

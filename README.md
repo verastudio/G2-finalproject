@@ -38,7 +38,7 @@ Welcome, all Keyword hunters!
  ✅ **App #2: Keyword Cloud**  
  ++Google Form: [Keyword Hunt](https://forms.gle/uyBgxdJQgPVdK2DZ8)  (코딩 - working on - Soolim) <br>
  ++Keyword Cloud: [Link](https://huggingface.co/spaces/verastudio/keywordcloud)
-++boy++
+++boy++ +boy+
 
 +  Steps
 1. T plays five key sentences from the story for the whole class.

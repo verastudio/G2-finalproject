@@ -36,17 +36,12 @@ Welcome, all Keyword hunters!
 
 키워드에 대한 이미지+발음+예문 - To be updated <br>
 
-**boy**
-++boy++
-+boy+
-_boy_
-(boy)
-/boy/
-\bo\
-+boy
-*boy
--boy
-{boy}
+>##boy
+>boy
+>>boy
+>>>boy
+---
+
 
 
 

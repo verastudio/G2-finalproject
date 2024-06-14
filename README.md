@@ -120,8 +120,8 @@ Welcome, all Keyword hunters!
 
 ✅ **App #5: About the Granpa's video**
 
-+ Grandfather's Reply (동영상으로 만들어 hugging face에 attach 하기)
-+ 할아버지의 audio 듣고 Q&A 코딩 App#4? : https://drive.google.com/file/d/1nBOdbGKtvMbCKtDGpfgsLvQoQWEB0oTG/view?usp=sharing
++ Grandfather's Reply
++ 할아버지의 audio 듣고 Q&A 코딩 App#5? : https://drive.google.com/file/d/1nBOdbGKtvMbCKtDGpfgsLvQoQWEB0oTG/view?usp=sharing
   요거 만들어야 해요!
 
 ### 6. Writing a Letter to the Grandson (with less scaffolding)

@@ -32,7 +32,7 @@ T's talk, S's talk
 
 Welcome, all Keyword hunters!
 
-🔹[Keyword Hunt](https://forms.gle/uyBgxdJQgPVdK2DZ8)  (코딩 - working on - Soolim)
++ [Keyword Hunt](https://forms.gle/uyBgxdJQgPVdK2DZ8)  (코딩 - working on - Soolim)
 
  ✅ **App #1: Online Dictionary**  키워드에 대한 이미지+발음+예문 <br>
  ✅ **App #2: Keyword Cloud**   (Soolim Working on..)
@@ -50,7 +50,7 @@ Welcome, all Keyword hunters!
 
 ### 4. Collaborative Writing 
 
-🔹[Padlet Link](https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu)
++ [Padlet Link](https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu)
 
 **The Grandson's Journey as a Lighthouse Keeper**
 
@@ -67,16 +67,16 @@ After taking over as the lighthouse keeper, the grandson faced his first major c
    
 
 ### 5. Writing a Note to the Grandfather
-🔹[Google Form](https://docs.google.com/forms/d/e/1FAIpQLSds_m7YxPB9jmIBc-nM8sM6rHu8iaahqvsrb1KRX0dGRgGjHw/viewform?usp=sf_link)
-🔹Grandfather's Reply (동영상으로 만들어 hugging face에 attach 하기)
++ [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSds_m7YxPB9jmIBc-nM8sM6rHu8iaahqvsrb1KRX0dGRgGjHw/viewform?usp=sf_link)
++ Grandfather's Reply (동영상으로 만들어 hugging face에 attach 하기)
 
 ### 6. Homework Assignment
 
 ✅ **App #5: Letter Maker** (Soolim working on...)
 
-🔹[Letter Maker](https://huggingface.co/spaces/verastudio/Letter_Maker)
++ [Letter Maker](https://huggingface.co/spaces/verastudio/Letter_Maker)
 
-🔹[Submit here](https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu)
++ [Submit here](https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu)
 
 ## Conclusion (Soolim)
 + [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Lesson%20Plan.md)

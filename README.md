@@ -32,7 +32,7 @@ T's talk, S's talk
 
 Welcome, all Keyword hunters!
 
-+ [Keyword Hunt](https://forms.gle/uyBgxdJQgPVdK2DZ8)  (코딩 - working on - Soolim)
++ Google Form: [Keyword Hunt](https://forms.gle/uyBgxdJQgPVdK2DZ8)  (코딩 - working on - Soolim)
 
  ✅ **App #1: Online Dictionary**  키워드에 대한 이미지+발음+예문 <br>
  ✅ **App #2: Keyword Cloud**  [Link](https://huggingface.co/spaces/verastudio/keywordcloud)

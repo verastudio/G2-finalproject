@@ -90,7 +90,7 @@ You will work in small groups to write a short continuation of the story on Padl
 ### 5. Writing a Note to the Grandfather
 + [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSds_m7YxPB9jmIBc-nM8sM6rHu8iaahqvsrb1KRX0dGRgGjHw/viewform?usp=sf_link)
 + Grandfather's Reply (동영상으로 만들어 hugging face에 attach 하기)
-+ 할아버지의 audio 듣고 Q&A 코딩 App#5?
++ 할아버지의 audio 듣고 Q&A 코딩 App#4?
 
 ### 6. Homework Assignment #HW 말고 수업시간에 하는 activity 로 바꾸셔도 될 것 같아요
 

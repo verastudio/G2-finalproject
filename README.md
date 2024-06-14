@@ -61,9 +61,9 @@ Welcome, all Keyword hunters!
 
 Welcome to our collaborative writing activity!
 You will work in small groups to write a short continuation of the story on Padlet.
-
-**Starting Sentence:**
-After taking over as the lighthouse keeper, the grandson faced his first major challenge when...
+<br>
+>**Starting Sentence:**
+>After taking over as the lighthouse keeper, the grandson faced his first major challenge when...
 
 🔹 Rules :
 1. Group Agreement

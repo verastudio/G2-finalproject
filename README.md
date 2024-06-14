@@ -88,6 +88,11 @@ You will work in small groups to write a short continuation of the story on Padl
    
 
 ### 5. Writing a Note to the Grandfather
++ [Padlet](https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu)
+
+
+
+
 + [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSds_m7YxPB9jmIBc-nM8sM6rHu8iaahqvsrb1KRX0dGRgGjHw/viewform?usp=sf_link)
 + Grandfather's Reply (동영상으로 만들어 hugging face에 attach 하기)
 + 할아버지의 audio 듣고 Q&A 코딩 App#4?

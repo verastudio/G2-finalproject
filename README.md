@@ -132,7 +132,7 @@ Welcome, all Keyword hunters!
 
   
 
-![Letter Maker2]![Letter_Maker2](https://github.com/verastudio/G2-finalproject/assets/163081348/d17c69ec-3f6e-48de-8925-46d0dfe57a00)
+![Letter_Maker2](https://github.com/verastudio/G2-finalproject/assets/163081348/d17c69ec-3f6e-48de-8925-46d0dfe57a00)
 
 
 

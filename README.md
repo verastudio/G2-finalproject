@@ -100,25 +100,38 @@ Welcome, all Keyword hunters!
 2. Each student selects a related keyword from the Keyword Cloud.
 3. Using the selected keyword, each student writes a summa요
   
-![Letter Maker](https://github.com/verastudio/G2-finalproject/assets/163081348/e6b38f32-d934-4ed6-b9d1-fbe144217291)
 
 
 
 
 ### 5. Writing a letter to the Grandpa
 
-✅ **App #5: About the Granpa's video**
-
-+ Grandfather's Reply (동영상으로 만들어 hugging face에 attach 하기)
-+ 할아버지의 audio 듣고 Q&A 코딩 App#4?
-
-### 6. Writing a Letter to the Grandson
-
 ✅ **App #5: Letter Maker** (Soolim working on...)
 
 + [Letter Maker](https://huggingface.co/spaces/verastudio/Letter_Maker)
 
 ![Letter Maker](https://github.com/verastudio/G2-finalproject/assets/163081348/e6b38f32-d934-4ed6-b9d1-fbe144217291)
+
+
+
+
+
+
+✅ **App #5: About the Granpa's video**
+
++ Grandfather's Reply (동영상으로 만들어 hugging face에 attach 하기)
++ 할아버지의 audio 듣고 Q&A 코딩 App#4?
+  
+
+### 6. Writing a Letter to the Grandson
+
++ [Letter Maker](https://huggingface.co/spaces/verastudio/Letter_Maker) - 앱 재활용? 이번엔 문장 선택 대신 가이드 주고 직접 쓰기?
+ 
+![Letter Maker](https://github.com/verastudio/G2-finalproject/assets/163081348/e6b38f32-d934-4ed6-b9d1-fbe144217291)
+
+
+
+
 
 
 

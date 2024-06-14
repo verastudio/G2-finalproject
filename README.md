@@ -69,6 +69,11 @@ Welcome, all Keyword hunters!
 
 + [Padlet Link](https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu)
 
+
+![Padlet](https://github.com/verastudio/G2-finalproject/assets/163081348/fc361eac-97ac-4cc6-9cd0-e333fdd93014)
+
+
+
 **The Grandson's Journey as a Lighthouse Keeper** <br>
 Welcome to our collaborative writing activity!
 You will work in small groups to write a short continuation of the story on Padlet.      

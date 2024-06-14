@@ -66,7 +66,7 @@ Welcome, all Keyword hunters!
 1.	Play the full audio of the story.
 2.	Students arrange pictures in the correct sequence in groups.
 
-### 4. Story Listening II - Collaborative Writing with Keywords
+### 4. Story Listening II - Relay Writing with Keywords
 
 ✅ **App #2: Keyword Cloud**  
 
@@ -89,8 +89,10 @@ Welcome, all Keyword hunters!
 
 
 + Steps
-1.	Play the audio again.
-2.	Students use keywords to write a summary on Padlet in groups.
+1.Each group reviews the images from the story reconstruction activity.
+2. Each student selects a related keyword from the Keyword Cloud.
+3. Using the selected keyword, each student writes a summary for their assigned image.
+4. Post the summaries on Padlet and discuss them with other groups.
    
 
 **The Grandson's Journey as a Lighthouse Keeper** <br>

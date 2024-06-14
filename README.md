@@ -16,13 +16,14 @@
 ##  📋 Today's Topic: The Lighthouse Lesson (Taehwi, Jungsook, Minyoung)
 
 #Group2 To-do list
-위에 레슨플랜 링크도 꼭 확인해주세요~
-(이 페이지는 수업을 위한 거라 보시고 원하시는 대로 수정해 주세요 :) - Soolim)
-수업 내용에 변동이 생기면 저에게 꼭 알려주세요! 레슨플랜도 같이 수정해야 해서요.
-앱 QR 코드 만들기
-Online dictionary 만들기- text 참고ㅓ해서 이미지, 예문, 발음 추가할 것
-T's talk, S's talk 
-수업자료 만들기
+위에 레슨플랜 링크도 꼭 확인해주세요~ <br>
+(이 페이지는 수업을 위한 거라 보시고 원하시는 대로 수정해 주세요 :) - Soolim) <br>
+수업 내용에 변동이 생기면 저에게 꼭 알려주세요! 레슨플랜도 같이 수정해야 해서요.<br>
+앱 QR 코드 만들기 <br>
+Online dictionary 만들기- text 참고ㅓ해서 이미지, 예문, 발음 추가할 것, <br>
+T's talk, S's talk 대략 정하고, 앱실행 해보기 <br>
+수업(발표)자료 만들기 <br>
+
 
 ### 1. Warm-Up
 + "Have you ever seen a lighthouse? Where was it?" 

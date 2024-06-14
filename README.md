@@ -62,9 +62,13 @@ Welcome, all Keyword hunters!
 4. T generates a live word cloud.
 
 
-### 3. Story Reconstruction and Listening Practice
+### 3. Story Listening and Reconstruction
 
  ✅ **App #3 Story Reconstruction**
+
+ 전체 오디오 다 같이 듣고, 
+ 
+ 그룹별로  그림 순서를 정해본다
 
 ### 4. Collaborative Writing 
 

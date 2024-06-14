@@ -37,7 +37,7 @@ Welcome, all Keyword hunters!
  ✅ **App #1: Online Dictionary**  키워드에 대한 이미지+발음+예문 <br>
  ✅ **App #2: Keyword Cloud**   (Soolim Working on..)
 
-🔹 Steps
++  Steps
 1. T plays five key sentences from the story for the whole class.
 2. Students pair up and use an online dictionary to discuss and understand the keywords.
 3. Pairs select the most important keyword for each sentence and submit their choices using Google Forms.

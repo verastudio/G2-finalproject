@@ -62,7 +62,7 @@ Welcome, all Keyword hunters!
 
  ✅ **App #3 Story Reconstruction:** [Link](https://huggingface.co/spaces/verastudio/Story_Order)
 
-+![Story_Order (1)](https://github.com/verastudio/G2-finalproject/assets/163081348/7a80a46b-9fd9-46ca-9f85-5eff99c4b83a)
+![Story_Order (1)](https://github.com/verastudio/G2-finalproject/assets/163081348/7a80a46b-9fd9-46ca-9f85-5eff99c4b83a)
 
 
 

@@ -40,6 +40,7 @@ Welcome, all Keyword hunters!
 
 + Google Form: [Link](https://forms.gle/uyBgxdJQgPVdK2DZ8) <br>
 + Keyword Cloud: [App#2](https://huggingface.co/spaces/verastudio/keywordcloud)
+![Keywordcloud](https://github.com/verastudio/G2-finalproject/assets/163081348/c83b2b22-4293-4dae-bb1e-6e0f0685e7c5)
 
 
 +  Steps

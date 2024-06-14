@@ -9,7 +9,7 @@
 
 
 
-## Introduction (Soolim)
+## 📣 Introduction (Soolim)
 + [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Lesson%20Plan.md)
 
 
@@ -78,7 +78,7 @@ After taking over as the lighthouse keeper, the grandson faced his first major c
 
 + [Submit here](https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu)
 
-## Conclusion (Soolim)
+## 📣 Conclusion (Soolim)
 + [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Lesson%20Plan.md)
 
 

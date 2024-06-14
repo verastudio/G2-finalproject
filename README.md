@@ -6,7 +6,7 @@
 
 
 
-## 📣 Introduction (Soolim)
+## 📣 Introduction (Soolim to be updated by Sun)
 + [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Lesson%20Plan.md)
 
 
@@ -17,7 +17,7 @@
 * T's talk, S's talk 대략 정하고, 앱실행 해보기
 * 그에 따라 수업 flow에 맞게 원하시는 대로 수정해 주세요. 앱도 수정하시거나 아예 새로 만드셔도 됩니다! :) - Soolim) <br>
 * 앱 QR 코드 만들기 <br>
-* Online dictionary 만들기- text 참고ㅓ해서 이미지, 예문, 발음 추가할 것, <br>
+* Online dictionary 만들기- text 참고해서 이미지, 예문, 발음 추가할 것, <br>
 
 
 

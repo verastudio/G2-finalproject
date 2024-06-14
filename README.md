@@ -32,14 +32,15 @@ T's talk, S's talk
 
 Welcome, all Keyword hunters!
 
+✅**App #1: Online Dictionary**
 ```
- ✅ **App #1: Online Dictionary**  키워드에 대한 이미지+발음+예문 - To be updated <br>
+키워드에 대한 이미지+발음+예문 - To be updated <br>
 ```
 
- ```
  ✅ **App #2: Keyword Cloud**  
- ++Google Form: [Keyword Hunt](https://forms.gle/uyBgxdJQgPVdK2DZ8)  (코딩 - working on - Soolim) <br>
- ++Keyword Cloud: [Link](https://huggingface.co/spaces/verastudio/keywordcloud)
+ ```
+ +Google Form: [Keyword Hunt](https://forms.gle/uyBgxdJQgPVdK2DZ8)  (코딩 - working on - Soolim) <br>
+ +Keyword Cloud: [Link](https://huggingface.co/spaces/verastudio/keywordcloud)
 ```
 
 +  Steps

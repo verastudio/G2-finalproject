@@ -7,7 +7,7 @@
 
 
 ## 📣 Introduction (Soolim to be updated by Sun)
-+ [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Lesson%20Plan.md)
++ [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Lesson%20Plan.md) 
 
 
 ##  📋 Today's Topic: The Lighthouse Lesson (Taehwi, Jungsook, Minyoung)
@@ -152,7 +152,7 @@ Welcome, all Keyword hunters!
 
 
 
-## 📣 Conclusion (Soolim)
+## 📣 Conclusion (Soolim to be updated by Sun)
 + [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Lesson%20Plan.md)
 
 

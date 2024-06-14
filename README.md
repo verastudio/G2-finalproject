@@ -106,7 +106,7 @@ Welcome, all Keyword hunters!
 
 ### 5. Writing a letter to the Grandpa
 
-✅ **App #5: Letter Maker** (Soolim working on...)
+✅ **App #4: Letter Maker** (Soolim working on...)
 
 + [Letter Maker](https://huggingface.co/spaces/verastudio/Letter_Maker)
 

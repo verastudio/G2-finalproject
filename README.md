@@ -97,7 +97,7 @@ You will work in small groups to write a short continuation of the story on Padl
 + Grandfather's Reply (동영상으로 만들어 hugging face에 attach 하기)
 + 할아버지의 audio 듣고 Q&A 코딩 App#4?
 
-### 6. Homework Assignment #HW 말고 수업시간에 하는 activity 로 바꾸셔도 될 것 같아요
+### 6. Writing a Letter to the Grandson
 
 ✅ **App #5: Letter Maker** (Soolim working on...)
 

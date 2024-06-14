@@ -51,7 +51,7 @@ Welcome, all Keyword hunters!
 
 
 
-+Steps
++ Steps
 1. T plays five key sentences from the story for the whole class.
 2. Students pair up and use an online dictionary to discuss and understand the keywords.
 3. Pairs select the most important keyword for each sentence and submit their choices using Google Forms.
@@ -62,15 +62,11 @@ Welcome, all Keyword hunters!
 
  ✅ **App #3 Story Reconstruction**
 
-+Steps
++ Steps
 1.	Play the full audio of the story.
 2.	Students arrange pictures in the correct sequence in groups.
 
 ### 4. Story Listening II - Collaborative Writing with Keywords
-
-+Steps
-1.	Play the audio again.
-2.	Students use keywords to write a summary on Padlet in groups.
 
 ✅ **App #2: Keyword Cloud**  
 
@@ -89,6 +85,13 @@ Welcome, all Keyword hunters!
 ![Padlet](https://github.com/verastudio/G2-finalproject/assets/163081348/fc361eac-97ac-4cc6-9cd0-e333fdd93014)
 
 
+
+
+
++ Steps
+1.	Play the audio again.
+2.	Students use keywords to write a summary on Padlet in groups.
+   
 
 **The Grandson's Journey as a Lighthouse Keeper** <br>
 Welcome to our collaborative writing activity!

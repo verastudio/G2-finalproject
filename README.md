@@ -128,8 +128,10 @@ Welcome, all Keyword hunters!
 ✅ **App #4.1: Letter Maker2** (with more scaffolding)
 
 + [Letter Maker2](https://huggingface.co/spaces/verastudio/Letter_Maker2)
+  
 
 ![Letter Maker2]![Letter_Maker2](https://github.com/verastudio/G2-finalproject/assets/163081348/d17c69ec-3f6e-48de-8925-46d0dfe57a00)
+
 
 
 

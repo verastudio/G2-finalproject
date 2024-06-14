@@ -15,7 +15,8 @@
 
 ##  📋 Today's Topic: The Lighthouse Lesson (Taehwi, Jungsook, Minyoung)
 
-#Group2 To=do list
+#Group2 To-do list
+위에 레슨플랜 링크도 꼭 확인해주세요~
 (보시고 필요 없는 부분 지워주세요 :) - Soolim)
 앱 QR 코드 만들기
 Online dictionary 만들기- text 참고ㅓ해서 이미지, 예문, 발음 추가할 것

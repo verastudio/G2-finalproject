@@ -31,7 +31,7 @@ Welcome, all Keyword hunters!
 
  ✅**App #1: Online Dictionary**
 
-키워드에 대한 이미지+발음+예문 - To be updated <br>
+요거 만들어야 해요! 키워드에 대한 이미지+발음+예문 - To be updated <br>
 
  ✅ **App #2: Keyword Cloud**  
 
@@ -106,7 +106,7 @@ Welcome, all Keyword hunters!
 
 ### 5. Writing a letter to the Grandpa
 
-✅ **App #4: Letter Maker** (Soolim working on...)
+✅ **App #4: Letter Maker1** (with more scaffolding)
 
 + [Letter Maker](https://huggingface.co/spaces/verastudio/Letter_Maker)
 
@@ -121,12 +121,14 @@ Welcome, all Keyword hunters!
 
 + Grandfather's Reply (동영상으로 만들어 hugging face에 attach 하기)
 + 할아버지의 audio 듣고 Q&A 코딩 App#4? : [Mr. Elias.mp4](https://github.com/verastudio/verastudio/blob/main/Mr.%20Elias.mp4)
-  
+  요거 만들어야 해요!
 
-### 6. Writing a Letter to the Grandson
+### 6. Writing a Letter to the Grandson (with less scaffolding)
 
-+ [Letter Maker](https://huggingface.co/spaces/verastudio/Letter_Maker) - 앱 재활용? 이번엔 문장 선택 대신 가이드 주고 직접 쓰기?
- 
+✅ **App #4.1: Letter Maker2** (with more scaffolding)
+
++ [Letter Maker](https://huggingface.co/spaces/verastudio/Letter_Maker)
+
 ![Letter Maker](https://github.com/verastudio/G2-finalproject/assets/163081348/e6b38f32-d934-4ed6-b9d1-fbe144217291)
 
 

@@ -104,9 +104,9 @@ Welcome, all Keyword hunters!
 
 
 
-### 5. Writing a letter to the Grandpa
+### 5. Writing a letter to the Grandpa (with more scaffolding)
 
-✅ **App #4: Letter Maker1** (with more scaffolding)
+✅ **App #4: Letter Maker1** 
 
 + [Letter Maker1](https://huggingface.co/spaces/verastudio/Letter_Maker1)
 

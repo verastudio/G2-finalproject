@@ -43,6 +43,11 @@ _boy_
 (boy)
 /boy/
 \bo\
++boy
+*boy
+-boy
+{boy}
+
 
 
  ✅ **App #2: Keyword Cloud**  

@@ -117,6 +117,7 @@ Welcome, all Keyword hunters!
 
 
 
+
 ✅ **App #5: About the Granpa's video**
 
 + Grandfather's Reply (동영상으로 만들어 hugging face에 attach 하기)
@@ -128,6 +129,7 @@ Welcome, all Keyword hunters!
 ✅ **App #4.1: Letter Maker2** (with more scaffolding)
 
 + [Letter Maker2](https://huggingface.co/spaces/verastudio/Letter_Maker2)
+
   
 
 ![Letter Maker2]![Letter_Maker2](https://github.com/verastudio/G2-finalproject/assets/163081348/d17c69ec-3f6e-48de-8925-46d0dfe57a00)
@@ -144,6 +146,9 @@ Welcome, all Keyword hunters!
 
 
 ![Padlet](https://github.com/verastudio/G2-finalproject/assets/163081348/edc34d5a-9eff-499c-926b-ac3024c07510)
+
+
+
 
 
 

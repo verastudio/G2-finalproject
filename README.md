@@ -51,7 +51,7 @@ Welcome, all Keyword hunters!
 
 
 
-+  Steps
++Steps
 1. T plays five key sentences from the story for the whole class.
 2. Students pair up and use an online dictionary to discuss and understand the keywords.
 3. Pairs select the most important keyword for each sentence and submit their choices using Google Forms.
@@ -62,12 +62,15 @@ Welcome, all Keyword hunters!
 
  ✅ **App #3 Story Reconstruction**
 
- 전체 오디오 다 같이 듣고, 
- 
- 그룹별로  그림 순서를 정해본다
++Steps
+1.	Play the full audio of the story.
+2.	Students arrange pictures in the correct sequence in groups.
 
 ### 4. Story Listening II - Collaborative Writing with Keywords
 
++Steps
+1.	Play the audio again.
+2.	Students use keywords to write a summary on Padlet in groups.
 
 ✅ **App #2: Keyword Cloud**  
 

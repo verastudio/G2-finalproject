@@ -39,7 +39,11 @@ Welcome, all Keyword hunters!
  ✅ **App #2: Keyword Cloud**  
 
 + Google Form: [Link](https://forms.gle/uyBgxdJQgPVdK2DZ8) <br>
+
+
 + Keyword Cloud: [App#2](https://huggingface.co/spaces/verastudio/keywordcloud)
+
+  
 ![Keywordcloud (1)](https://github.com/verastudio/G2-finalproject/assets/163081348/93555cbc-60de-4397-aa90-39d61f42cdf3)
 
 

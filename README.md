@@ -98,7 +98,7 @@ Welcome, all Keyword hunters!
 + Steps
 1. Each group reviews the images from the story reconstruction activity.
 2. Each student selects a related keyword from the Keyword Cloud.
-3. Using the selected keyword, each student writes a summa요
+3. Using the selected keyword, each student writes a summary
   
 
 

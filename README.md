@@ -73,7 +73,7 @@ Welcome, all Keyword hunters!
 1.	Play the full audio of the story.
 2.	Students arrange pictures in the correct sequence in groups.
 
-### 4. Story Listening II - Relay Writing with Keywords
+### 4. Story Listening II - Replay Writing with Keywords
 
 ✅ **App #2: Keyword Cloud**  
 

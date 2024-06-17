@@ -38,6 +38,10 @@
 
 ## 💡 Lesson Materials
 + Click here: [Presentation](https://prezi.com/view/I33v73YCVBnS2XYrc6LA/)
+![qrcode_115030539_0a86ccb658fe1324a298dfac5fcd64bc](https://github.com/verastudio/G2-finalproject/assets/163081348/fbea70bc-0ec7-4e8e-93fe-5aad81ee966e)
+
+
+
 
 ## 💡 QR Codes
 

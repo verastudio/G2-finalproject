@@ -4,10 +4,26 @@
 |🎯[Emoji](https://gist.github.com/rxaviers/7360908) | 🎯[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) |🎯[Reading material](https://raw.githubusercontent.com/verastudio/verastudio/main/story04.txt) |🎯[image](https://github.com/verastudio/G2-finalproject/assets/163081348/32781da7-8e86-4646-8ce7-4e4994413bd0)
 ) | 🎯[CodePage](https://github.com/verastudio/G2-finalproject/blob/main/FPG02.ipynb) | 🎯[APP#1] | 🎯[APP#2](https://huggingface.co/spaces/verastudio/keywordcloud) |🎯[APP#3](https://huggingface.co/spaces/verastudio/Story_Order) |🎯[APP#4](https://huggingface.co/spaces/verastudio/Letter_Maker1) |🎯[APP#4.1](https://huggingface.co/spaces/verastudio/Letter_Maker2) |🎯[APP#5](https://huggingface.co/spaces/verastudio/Multiple_Choice) |
 
++ [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Lesson%20Plan.md) 
+
+#  📋 Lesson Plan: The Lighthouse Lesson
+
+## 💡 Lesson Overview
+
+  **🔹 Goal:** Enhancing Listening and Writing Skills through Technology    
+  **🔹 Context:** 2nd Year Middle School Students at Intermediate Level  
+  **🔹 Time:** 45 minutes  
+  
+  **🔹 Objectives:**   
+  
+**1️.** Students will be able to extract and identify keywords from listening passages.  
+**2.** Students will be able to reconstruct story sequences based on audio prompts.  
+**3.** Students will be able to collaboratively write a continuation of the story.  
+**4.** Students will be able to write thank-you notes using learned phrases.  
 
 
 ## 📣 Introduction (Soolim to be updated by Sun)
-+ [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Lesson%20Plan.md) 
+
 
 
 ##  📋 Today's Topic: The Lighthouse Lesson (Taehwi, Jungsook, Minyoung)

@@ -2,7 +2,7 @@
 
 ## Useful Links
 |🎯[Emoji](https://gist.github.com/rxaviers/7360908) | 🎯[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) |🎯[Reading material](https://raw.githubusercontent.com/verastudio/verastudio/main/story04.txt) |🎯[Image](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/Story04.png)
-) | 🎯[CodePage](https://github.com/verastudio/G2-finalproject/blob/main/FPG02.ipynb) | 🎯[APP#1](https://huggingface.co/spaces/verastudio/Online_Dictionary) | 🎯[APP#2](https://huggingface.co/spaces/verastudio/keywordcloud) |🎯[APP#3](https://huggingface.co/spaces/verastudio/Story_Order) |🎯[APP#4.1](https://huggingface.co/spaces/verastudio/Letter_Maker1) |🎯[APP#4.2](https://huggingface.co/spaces/verastudio/Letter_Maker2) |🎯[APP#5](https://huggingface.co/spaces/verastudio/Multiple_Choice) |🎯[Presentation](https://prezi.com/view/I33v73YCVBnS2XYrc6LA/)
+) | 🎯[APP#1](https://huggingface.co/spaces/verastudio/Online_Dictionary) | 🎯[APP#2](https://huggingface.co/spaces/verastudio/keywordcloud) |🎯[APP#3](https://huggingface.co/spaces/verastudio/Story_Order) |🎯[APP#4.1](https://huggingface.co/spaces/verastudio/Letter_Maker1) |🎯[APP#4.2](https://huggingface.co/spaces/verastudio/Letter_Maker2) |🎯[APP#5](https://huggingface.co/spaces/verastudio/Multiple_Choice) |🎯[Presentation](https://prezi.com/view/I33v73YCVBnS2XYrc6LA/)
 
 
 ---

@@ -8,7 +8,7 @@
 ---
 
 # 📣 Lesson Overview
-## Topic: The Lighthouse Lesson
+**Topic: The Lighthouse Lesson**
 
 ## 💡 Goal
 **Enhancing Listening and Writing Skills through Technology**

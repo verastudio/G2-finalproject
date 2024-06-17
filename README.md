@@ -2,7 +2,8 @@
 
 ## Useful Links
 |🎯[Emoji](https://gist.github.com/rxaviers/7360908) | 🎯[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) |🎯[Reading material](https://raw.githubusercontent.com/verastudio/verastudio/main/story04.txt) |🎯[image](https://github.com/verastudio/G2-finalproject/assets/163081348/32781da7-8e86-4646-8ce7-4e4994413bd0)
-) | 🎯[CodePage](https://github.com/verastudio/G2-finalproject/blob/main/FPG02.ipynb) | 🎯[APP#1] | 🎯[APP#2](https://huggingface.co/spaces/verastudio/keywordcloud) |🎯[APP#3](https://huggingface.co/spaces/verastudio/Story_Order) |🎯[APP#4](https://huggingface.co/spaces/verastudio/Letter_Maker1) |🎯[APP#4.1](https://huggingface.co/spaces/verastudio/Letter_Maker2) |🎯[APP#5](https://huggingface.co/spaces/verastudio/Multiple_Choice) |
+) | 🎯[CodePage](https://github.com/verastudio/G2-finalproject/blob/main/FPG02.ipynb) | 🎯[APP#1] | 🎯[APP#2](https://huggingface.co/spaces/verastudio/keywordcloud) |🎯[APP#3](https://huggingface.co/spaces/verastudio/Story_Order) |🎯[APP#4](https://huggingface.co/spaces/verastudio/Letter_Maker1) |🎯[APP#4.1](https://huggingface.co/spaces/verastudio/Letter_Maker2) |🎯[APP#5](https://huggingface.co/spaces/verastudio/Multiple_Choice) |🎯[Presentation](https://prezi.com/view/I33v73YCVBnS2XYrc6LA/)
+
 
 + [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Lesson%20Plan.md) 
 
@@ -24,7 +25,7 @@
 **4.** Students will be able to write thank-you email using learned phrases. -> App #4,5    
 
 ## 💡 Lesson Materials
-[Presentation Lin]k(https://prezi.com/view/I33v73YCVBnS2XYrc6LA/)
+[Presentation](https://prezi.com/view/I33v73YCVBnS2XYrc6LA/)
 
 ## 💡 Lesson Plan
 

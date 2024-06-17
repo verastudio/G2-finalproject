@@ -55,7 +55,7 @@
 #### 🎯App #3-Story Order
 ![Story_Order (1)](https://github.com/verastudio/G2-finalproject/assets/163081348/7a80a46b-9fd9-46ca-9f85-5eff99c4b83a)
 
-### 🔹Activity 4 Story Listening II - Replay Writing with Keywords 
+### 🔹Activity 4 Story Listening II - Relay Writing with Keywords 
 #### 🎯App #2-Keyword Cloud
 ![Keywordcloud (1)](https://github.com/verastudio/G2-finalproject/assets/163081348/93555cbc-60de-4397-aa90-39d61f42cdf3)
 #### Padlet

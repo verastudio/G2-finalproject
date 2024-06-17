@@ -1,7 +1,7 @@
 # 📗 Group 2 Final project 
 
 ## Useful Links
-|🎯[Emoji](https://gist.github.com/rxaviers/7360908) | 🎯[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) |🎯[Reading material](https://raw.githubusercontent.com/verastudio/verastudio/main/story04.txt) |🎯[image](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/Story04.png)
+|🎯[Emoji](https://gist.github.com/rxaviers/7360908) | 🎯[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) |🎯[Reading material](https://raw.githubusercontent.com/verastudio/verastudio/main/story04.txt) |🎯[Image](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/Story04.png)
 ) | 🎯[CodePage](https://github.com/verastudio/G2-finalproject/blob/main/FPG02.ipynb) | 🎯[APP#1] | 🎯[APP#2](https://huggingface.co/spaces/verastudio/keywordcloud) |🎯[APP#3](https://huggingface.co/spaces/verastudio/Story_Order) |🎯[APP#4](https://huggingface.co/spaces/verastudio/Letter_Maker1) |🎯[APP#4.1](https://huggingface.co/spaces/verastudio/Letter_Maker2) |🎯[APP#5](https://huggingface.co/spaces/verastudio/Multiple_Choice) |🎯[Presentation](https://prezi.com/view/I33v73YCVBnS2XYrc6LA/)
 
 
@@ -10,7 +10,7 @@
 # 📣 Lesson Overview
 **Topic: The Lighthouse Lesson**
 
-## 💡 Goal
+## 🔹 Goal
 **Enhancing Listening and Writing Skills through Technology**
 
 ## 🔹 Context
@@ -25,7 +25,7 @@
 3. **Students will be able to collaboratively write a continuation of the story.**
 4. **Students will be able to write thank-you notes using learned phrases.**
 
-# 💡  Lesson Plan
+# 📣 Lesson Plan
 
 | **Activity**                                      | **Purpose**                                               | **Steps**                                                                                                                                                  | **App/Tool**                                                                                            | **Time** |
 |---------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|----------|
@@ -36,7 +36,7 @@
 | **Writing a Letter to Grandpa** | Practice formal writing and comprehension through a structured activity | 1. Write thank-you emails using Letter Maker1<br>2. Listen to Grandpa's voice email<br>3. Answer questions using a multiple-choice quiz app                | [Letter Maker1](https://huggingface.co/spaces/verastudio/Letter_Maker1)<br> Grandpa's Reply Video<br>[Multiple Choice Quiz App](https://huggingface.co/spaces/verastudio/Multiple_Choice) | 20 mins  |
 | **Writing a Letter to the Grandson** | Develop independent writing skills through a less structured activity | 1. Write thank-you emails using Letter Maker2<br>2. Submit emails on Padlet<br>3. Leave feedback on peers' emails                                           |[Letter Maker2](https://huggingface.co/spaces/verastudio/Letter_Maker2)<br>[Padlet](https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu) | 20 mins  |
 
-# 💡 Lesson Materials
+## 💡 Lesson Materials
 + Click here: [Presentation](https://prezi.com/view/I33v73YCVBnS2XYrc6LA/)
 
 ## 💡 QR Codes

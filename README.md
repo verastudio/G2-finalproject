@@ -41,18 +41,22 @@
 
 ## 💡 QR Codes
 
-### Audio Keyword Hunt
+### Activity 1
+### 🎯App#1-Online Dictionary
+
+
+### 🎯App#2-Audio Keyword Hunt
 #### Google Form
 ![Google Form #1](https://github.com/verastudio/G2-finalproject/assets/163081348/6fbab757-759a-444a-aa09-e58f33f8e001)
 #### Keyword Cloud
 ![Keywordcloud (1)](https://github.com/verastudio/G2-finalproject/assets/163081348/93555cbc-60de-4397-aa90-39d61f42cdf3)
 
-### Story Listening I - Reconstruction
+### 🎯App#3 Story Listening I - Reconstruction
 #### Story Reconstruction App
 ![Story_Order (1)](https://github.com/verastudio/G2-finalproject/assets/163081348/7a80a46b-9fd9-46ca-9f85-5eff99c4b83a)
 
-### Story Listening II - Replay Writing with Keywords
-#### Keyword Cloud
+### 🎯App#4 Story Listening II - Replay Writing with Keywords
+#### 🎯App#2 Keyword Cloud
 ![Keywordcloud (1)](https://github.com/verastudio/G2-finalproject/assets/163081348/93555cbc-60de-4397-aa90-39d61f42cdf3)
 #### Padlet
 ![Padlet](https://github.com/verastudio/G2-finalproject/assets/163081348/fc361eac-97ac-4cc6-9cd0-e333fdd93014)

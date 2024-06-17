@@ -74,14 +74,7 @@
 
 ---
 
-
-## 💡 Lesson Materials
-+ Click here: [Presentation](https://prezi.com/view/I33v73YCVBnS2XYrc6LA/)
-
-
----
-
-## 📣 Conclusion 
+# 📣 Conclusion 
 
 ** 😃 Benefits:**
 1. **Engagement:** The use of interactive apps like Google Forms, Padlet, and WordClouds.com makes the lesson more engaging and interactive for students.

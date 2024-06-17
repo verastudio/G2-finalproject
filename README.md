@@ -6,7 +6,7 @@
 
 + [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Lesson%20Plan.md) 
 
-#  📋 Lesson Plan: The Lighthouse Lesson
+#  📣  Topic: The Lighthouse Lesson
 
 ## 💡 Lesson Overview
 
@@ -23,11 +23,9 @@
 **3.** Students will be able to collaboratively write a continuation of the story.   
 **4.** Students will be able to write thank-you email using learned phrases. -> App #4,5    
 
+## 💡 Lesson Materials
 
 ## 💡 Lesson Plan
-
-
-
 
 
 
@@ -170,14 +168,30 @@ Welcome, all Keyword hunters!
 
 
 
+---
+
+## 📣 Conclusion 
+
+** 😃 Benefits:**
+1. **Engagement:** The use of interactive apps like Google Forms, Padlet, and WordClouds.com makes the lesson more engaging and interactive for students.
+2. **Skill Integration:** The lesson effectively integrates listening and writing skills, providing a comprehensive learning experience.
+3. **Collaboration:** Students collaborate on tasks using Google Docs/Slides, promoting teamwork and peer learning.
+4. **Immediate Feedback:** Apps like Google Forms and Padlet allow for immediate feedback and real-time updates, enhancing the learning process.
+
+** 😞 Limitations:**
+1. **Technology Dependence:** The lesson heavily relies on technology, which can be a limitation if there are technical issues or if students have limited access to devices.
+2. **Time Management:** Ensuring that all activities fit within the 45-minute timeframe may be challenging, especially if students need more time to complete tasks.
+3. **Varied Pacing:** Students work at different paces, so some might finish early while others need more time, which can be difficult to manage in a single class period.
+
+** 😉 Improvements:**
+1. **Backup Plans:** Prepare non-digital alternatives for each activity in case of technical difficulties to ensure the lesson can proceed smoothly.
+2. **Pacing Adjustments:** Provide differentiated pacing guides and allow for flexible timing on activities to accommodate different learning speeds.
+3. **Additional Support:** Incorporate brief tutorial videos or instructions on how to use each app for students who may be unfamiliar with the technology.
+4. **Extended Learning:** Provide optional extension activities for students who finish early to keep them engaged while others complete the main tasks.
+
+This lesson plan integrates listening and writing skills with interactive technology tools to enhance student engagement and learning outcomes. By using apps like Google Forms, Padlet, and collaborative documents, students can actively participate in various activities that reinforce their understanding and application of the English language.
 
 
-## 📣 Conclusion (Soolim to be updated by Sun)
-+ [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Lesson%20Plan.md)
-
-
-
-## Lesson Materials
 
 
 ### Story Title: The Lighthouse Keeper’s Lantern 

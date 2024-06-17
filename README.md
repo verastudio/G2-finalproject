@@ -25,7 +25,7 @@
 **4.** Students will be able to write thank-you email using learned phrases. -> App #4,5    
 
 ## 💡 Lesson Materials
-Click here: [Presentation](https://prezi.com/view/I33v73YCVBnS2XYrc6LA/)
++ Click here: [Presentation](https://prezi.com/view/I33v73YCVBnS2XYrc6LA/)
 
 ## 💡 Lesson Plan
 

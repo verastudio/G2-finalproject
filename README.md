@@ -45,7 +45,8 @@
 ### 🔹Activity 2 - Audio Keyword Hunt
 #### 🎯App #1-Online Dictionary [[Link]](https://huggingface.co/spaces/verastudio/Online_Dictionary)
 
-![qrcode_115029130_4c746bf4f556f04013041c597c7e5760]
+![qrcode_115029130_4c746bf4f556f04013041c597c7e5760](https://github.com/verastudio/G2-finalproject/assets/163081348/d55e0ac7-6ff9-4358-8f88-eb990cabe156)
+
 
 
 
@@ -61,8 +62,10 @@
 ![Keywordcloud (1)](https://github.com/verastudio/G2-finalproject/assets/163081348/93555cbc-60de-4397-aa90-39d61f42cdf3)
 
 ### 🔹Activity 3 - Story Listening I - Reconstruction
-#### 🎯App #3-Story Order
+#### 🎯App #3-Story Order [[Link]](https://huggingface.co/spaces/verastudio/Story_Order)
 ![Story_Order (1)](https://github.com/verastudio/G2-finalproject/assets/163081348/7a80a46b-9fd9-46ca-9f85-5eff99c4b83a)
+
+
 
 ### 🔹Activity 4 Story Listening II - Relay Writing with Keywords 
 #### 🎯App #2-Keyword Cloud

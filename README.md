@@ -122,8 +122,11 @@ Welcome, all Keyword hunters!
 
 + Grandfather's Reply
   
-+ 할아버지의 audio 듣고 Q&A 코딩 App#5? : https://drive.google.com/file/d/1nBOdbGKtvMbCKtDGpfgsLvQoQWEB0oTG/view?usp=sharing
++ 할아버지의 audio 듣고 Q&A 코
+  
 + [Multiple Choice](https://huggingface.co/spaces/verastudio/Multiple_Choice)
+
++ 
   ![Multiple_Choice](https://github.com/verastudio/G2-finalproject/assets/163081348/0f8f89cb-d987-49db-ba0a-b24ab2918260)
 
 

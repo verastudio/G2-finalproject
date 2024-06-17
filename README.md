@@ -124,7 +124,6 @@ Welcome, all Keyword hunters!
 
 
 
-
 ✅ **App #5: About the Granpa's video**
 
 + Grandfather's Reply
@@ -138,7 +137,15 @@ Welcome, all Keyword hunters!
 
 
 
-  
+
+
+
+
+
+  🔹Steps:
+1. Students write thank-you emails using the Letter Maker app.
+2. Students listen to the voice email from the Grandpa.
+3. Students use multiple-choice quiz app.
 
 
 ### 6. Writing a Letter to the Grandson (with less scaffolding)
@@ -167,6 +174,11 @@ Welcome, all Keyword hunters!
 
 
 
+ 🔹Steps:
+1. Students write thank-you emails using the Letter Maker app.
+2. Students submit their email on Padlet.
+3. Students leave some constructive feedback each other.
+   
 
 ## 💡 Lesson Materials
 + Click here: [Presentation](https://prezi.com/view/I33v73YCVBnS2XYrc6LA/)

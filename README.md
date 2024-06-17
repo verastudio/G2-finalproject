@@ -7,7 +7,7 @@
 
 + [Lesson Plan](https://github.com/verastudio/G2-finalproject/blob/main/Lesson%20Plan.md) 
 
-#  📣  Topic: The Lighthouse Lesson
+##  📣  Topic: The Lighthouse Lesson
 
 ## 💡 Lesson Overview
 

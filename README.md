@@ -24,8 +24,6 @@
 **3.** Students will be able to collaboratively write a continuation of the story.   
 **4.** Students will be able to write thank-you email using learned phrases. -> App #4,5    
 
-## 💡 Lesson Materials
-+ Click here: [Presentation](https://prezi.com/view/I33v73YCVBnS2XYrc6LA/)
 
 ## 💡 Lesson Plan
 
@@ -168,6 +166,11 @@ Welcome, all Keyword hunters!
 ![Padlet](https://github.com/verastudio/G2-finalproject/assets/163081348/edc34d5a-9eff-499c-926b-ac3024c07510)
 
 
+
+
+
+## 💡 Lesson Materials
++ Click here: [Presentation](https://prezi.com/view/I33v73YCVBnS2XYrc6LA/)
 
 
 ---

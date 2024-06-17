@@ -100,24 +100,55 @@
 
 # 📣 Conclusion 
 
-** 😃 Benefits:**
-1. **Engagement:** The use of interactive apps like Google Forms, Padlet, and WordClouds.com makes the lesson more engaging and interactive for students.
-2. **Skill Integration:** The lesson effectively integrates listening and writing skills, providing a comprehensive learning experience.
-3. **Collaboration:** Students collaborate on tasks using Google Docs/Slides, promoting teamwork and peer learning.
-4. **Immediate Feedback:** Apps like Google Forms and Padlet allow for immediate feedback and real-time updates, enhancing the learning process.
+# Conclusion: Benefits, Limitations, and Improvements
 
-** 😞 Limitations:**
-1. **Technology Dependence:** The lesson heavily relies on technology, which can be a limitation if there are technical issues or if students have limited access to devices.
-2. **Time Management:** Ensuring that all activities fit within the 45-minute timeframe may be challenging, especially if students need more time to complete tasks.
-3. **Varied Pacing:** Students work at different paces, so some might finish early while others need more time, which can be difficult to manage in a single class period.
+## 😃 Benefits:
 
-** 😉 Improvements:**
-1. **Backup Plans:** Prepare non-digital alternatives for each activity in case of technical difficulties to ensure the lesson can proceed smoothly.
-2. **Pacing Adjustments:** Provide differentiated pacing guides and allow for flexible timing on activities to accommodate different learning speeds.
-3. **Additional Support:** Incorporate brief tutorial videos or instructions on how to use each app for students who may be unfamiliar with the technology.
-4. **Extended Learning:** Provide optional extension activities for students who finish early to keep them engaged while others complete the main tasks.
+### Interactive Learning:
+- Use of online dictionaries and keyword clouds makes vocabulary learning engaging.
+- Real-time tools like Padlet, Hugging Face Keyword Cloud, and Google Forms enhance interaction and participation.
+
+### Collaborative Activities:
+- Group activities like 'Story Listening I - Reconstruction' foster peer collaboration and scaffolding.
+- Enhances comprehension through teamwork.
+
+### Practical Writing Practice:
+- Activities such as 'Relay Writing with Keywords' and letter-writing exercises provide real-world writing practice.
+- Helps students develop their ability to describe and articulate thoughts clearly using learned vocabulary.
+
+## 😞 Limitations:
+
+### Technical Reliance:
+- Dependence on technology means technical issues can disrupt the lesson.
+
+### Access Disparities:
+- Not all students may have equal access to devices or be equally comfortable using them.
+
+### Creativity Constraints:
+- Structured activities may limit creative expression for some students.
+
+### Dictionary Usage:
+- Keywords were updated in detail by the teacher in the online dictionary.
+- Other words in the text were found only in the English-English dictionary using existing codes, which may not be as comprehensive for all students.
+
+## 😉 Improvements:
+
+### Pacing Adjustments:
+- Provide differentiated pacing guides and allow for flexible timing on activities to accommodate different learning speeds.
+
+### Additional Support:
+- Incorporate brief tutorial videos or instructions on how to use each app for students who may be unfamiliar with the technology.
+
+### Extended Learning:
+- Provide optional extension activities for students who finish early to keep them engaged while others complete the main tasks.
+
+### Regular Feedback:
+- Conduct feedback sessions with students to understand what works well and what needs adjustment for continuous improvement.
+
+## Final Thoughts:
 
 This lesson plan integrates listening and writing skills with interactive technology tools to enhance student engagement and learning outcomes. By using apps like Google Forms, Padlet, and collaborative documents, students can actively participate in various activities that reinforce their understanding and application of the English language.
+
 
 
 

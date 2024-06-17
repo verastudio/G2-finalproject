@@ -39,7 +39,8 @@
 # 💡 Lesson Materials
 + Click here: [Presentation](https://prezi.com/view/I33v73YCVBnS2XYrc6LA/)
 
-## QR Codes
+## 💡 QR Codes
+
 ### Audio Keyword Hunt
 #### Google Form
 ![Google Form #1](https://github.com/verastudio/G2-finalproject/assets/163081348/6fbab757-759a-444a-aa09-e58f33f8e001)

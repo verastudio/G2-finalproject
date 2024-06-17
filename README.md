@@ -29,6 +29,8 @@ In a small coastal town, the aging lighthouse keeper, Mr. Elias, and his grandso
 **4.** Students will be able to write thank-you email using learned phrases. -> App #4,5    
 
 
+---
+
 ## 💡 Lesson Plan
 
 

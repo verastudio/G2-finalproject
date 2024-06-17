@@ -44,13 +44,15 @@
 
 ### 🔹Activity 2 - Audio Keyword Hunt
 #### 🎯App #1-Online Dictionary
-[Online Dictionary]!(https://github.com/verastudio/G2-finalproject/assets/163081348/cace868c-bd55-4f38-b82f-1c1eb60e4d27)
+[Online Dictionary]![qrcode_115029130_4c746bf4f556f04013041c597c7e5760](https://github.com/verastudio/G2-finalproject/assets/163081348/6b569a0d-4dd3-488c-b2f5-8a1b32abd58c)
+
 
 
  
 #### Google Form
 ![Google Form #1](https://github.com/verastudio/G2-finalproject/assets/163081348/6fbab757-759a-444a-aa09-e58f33f8e001)
-#### 🎯App #2-Audio Keyword HuntKeyword Cloud
+#### 🎯[App #2-Audio Keyword HuntKeyword Cloud](https://huggingface.co/spaces/verastudio/Online_Dictionary)
+
 ![Keywordcloud (1)](https://github.com/verastudio/G2-finalproject/assets/163081348/93555cbc-60de-4397-aa90-39d61f42cdf3)
 
 ### 🔹Activity 3 - Story Listening I - Reconstruction

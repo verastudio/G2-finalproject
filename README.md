@@ -37,8 +37,11 @@
 | **6. Writing a Letter to the Grandson** | Develop independent writing skills through a less structured activity | **1.** Write thank-you emails using Letter Maker2.<br>**2.** Submit emails on <br>[Padlet](https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu).<br>**3.** Leave feedback on peers' emails.                                           |🎯**App#4.2-**<br>[Letter Maker2](https://huggingface.co/spaces/verastudio/Letter_Maker2) | 10 mins  |
 
 ## 💡 Lesson Materials
+
 + Click here: [Presentation](https://prezi.com/view/I33v73YCVBnS2XYrc6LA/)
+  
 ![qrcode_115030539_0a86ccb658fe1324a298dfac5fcd64bc](https://github.com/verastudio/G2-finalproject/assets/163081348/fbea70bc-0ec7-4e8e-93fe-5aad81ee966e)
+
 
 
 

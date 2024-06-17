@@ -43,8 +43,8 @@
 ## 💡 QR Codes
 
 ### 🔹Activity 2 - Audio Keyword Hunt
-#### 🎯App #1-Online Dictionary
-[Online Dictionary](https://github.com/verastudio/G2-finalproject/assets/163081348/6b569a0d-4dd3-488c-b2f5-8a1b32abd58c)
+#### 🎯App #1-Online Dictionary [Link](https://huggingface.co/spaces/verastudio/Online_Dictionary)
+
 ![qrcode_115029130_4c746bf4f556f04013041c597c7e5760]
 
 

@@ -41,7 +41,7 @@
 
 ## 💡 QR Codes
 
-### Activity 2 - Audio Keyword Hunt
+### + Activity 2 - Audio Keyword Hunt
 #### 🎯App #1-Online Dictionary
 
 

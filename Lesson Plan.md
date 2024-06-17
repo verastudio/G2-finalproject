@@ -12,7 +12,21 @@
 **2.** Students will be able to reconstruct story sequences based on audio prompts.  
 **3.** Students will be able to collaboratively write a continuation of the story.  
 **4.** Students will be able to write thank-you notes using learned phrases.  
+---
+# Lesson Plan
 
+| **Activity**               | **Purpose**                                               | **Steps**                                                                                                                                                  | **App/Tool**                                          | **Time** |
+|----------------------------|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|----------|
+| **Warm-Up**                | Activate prior knowledge and introduce the topic          | - Ask students if they have seen a lighthouse and its purpose                                                                                              | None                                                  | 10 mins  |
+| **Audio Keyword Hunt**     | Develop vocabulary and listening skills                   | 1. Play five key sentences from the story<br>2. Students discuss keywords in pairs using an online dictionary<br>3. Submit keywords via Google Forms<br>4. Generate live word cloud | - Online Dictionary<br>- Keyword Cloud<br>- Google Forms | 20 mins  |
+| **Story Listening I - Reconstruction** | Enhance comprehension through visual aids and sequence arrangement | 1. Play the full audio of the story<br>2. Students arrange pictures in sequence in groups<br>3. Review the correct sequence with the class                  | - Story Reconstruction App<br>- Story Order Images     | 20 mins  |
+| **Story Listening II - Replay Writing with Keywords** | Reinforce comprehension and writing skills using keywords        | 1. Review images from the reconstruction activity<br>2. Each student selects a keyword from the Keyword Cloud<br>3. Write summaries<br>4. Submit summaries on Padlet | - Keyword Cloud<br>- Padlet                            | 20 mins  |
+| **Writing a Letter to Grandpa (with more scaffolding)** | Practice formal writing and comprehension through a structured activity | 1. Write thank-you emails using Letter Maker1<br>2. Listen to Grandpa's voice email<br>3. Answer questions using a multiple-choice quiz app                | - Letter Maker1<br>- Grandpa's Reply Video<br>- Multiple Choice Quiz App | 20 mins  |
+| **Writing a Letter to the Grandson (with less scaffolding)** | Develop independent writing skills through a less structured activity | 1. Write thank-you emails using Letter Maker2<br>2. Submit emails on Padlet<br>3. Leave feedback on peers' emails                                           | - Letter Maker2<br>- Padlet                            | 20 mins  |
+
+
+
+---
 ---
 
 ## 💡 Lesson Plan

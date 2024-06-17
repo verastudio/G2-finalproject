@@ -143,7 +143,7 @@
 ### Regular Feedback:
 - Conduct feedback sessions with students to understand what works well and what needs adjustment for continuous improvement.
 
-## Group2's Final Thoughts:
+## 🚩 Group2's Final Thoughts:
 
 This lesson plan integrates listening and writing skills with interactive technology tools to enhance student engagement and learning outcomes. By using apps like Google Forms, Padlet, and collaborative documents, students can actively participate in various activities that reinforce their understanding and application of the English language.
 

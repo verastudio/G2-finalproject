@@ -24,19 +24,11 @@
 **4.** Students will be able to write thank-you email using learned phrases. -> App #4,5    
 
 
-## 📣 Introduction (Soolim to be updated by Sun)
+## 💡 Lesson Plan
 
 
 
-##  📋 Today's Topic: The Lighthouse Lesson (Taehwi, Jungsook, Minyoung)
 
-#Group2 To-do list
-
-* 각 앱이 적절하게 실행되는지 QR 코드 링크 올바른지 체크! <br>
-* 수업 flow에 맞게 원하시는 대로 수정해 주세요. 앱 수정하시거나 아예 새로 만드셔도 됩니다! :) - Soolim) <br>
-* Online dictionary 만들기- text 참고해서 이미지, 예문, 발음 추가할 것, <br>
-* 비디오 퀴즈 만들기 - 첨부한 mp3 다운
-* T's talk, S's talk 데모, 앱, QR 실행 해보기
 
 
 ### 1. Warm-Up

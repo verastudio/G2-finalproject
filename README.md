@@ -52,7 +52,7 @@
 
 
  
-#### Google Form
+#### Google Form [[Link]](https://docs.google.com/forms/d/e/1FAIpQLSdVqUA7uVDMROGL0DUbxR1wuv-PRo554st5l9DHnZX1bZF-FA/viewform)
 ![Google Form #1](https://github.com/verastudio/G2-finalproject/assets/163081348/6fbab757-759a-444a-aa09-e58f33f8e001)
 
 
@@ -61,28 +61,28 @@
 
 ![Keywordcloud (1)](https://github.com/verastudio/G2-finalproject/assets/163081348/93555cbc-60de-4397-aa90-39d61f42cdf3)
 
-### 🔹Activity 3 - Story Listening I - Reconstruction
+### 🔹Activity 3 - Story Listening I - Reconstruction [[Link]](
 #### 🎯App #3-Story Order [[Link]](https://huggingface.co/spaces/verastudio/Story_Order)
 ![Story_Order (1)](https://github.com/verastudio/G2-finalproject/assets/163081348/7a80a46b-9fd9-46ca-9f85-5eff99c4b83a)
 
 
 
 ### 🔹Activity 4 Story Listening II - Relay Writing with Keywords 
-#### 🎯App #2-Keyword Cloud
+#### 🎯App #2-Keyword Cloud  [[Link]](
 ![Keywordcloud (1)](https://github.com/verastudio/G2-finalproject/assets/163081348/93555cbc-60de-4397-aa90-39d61f42cdf3)
-#### Padlet
+#### Padlet [[Link]](
 ![Padlet](https://github.com/verastudio/G2-finalproject/assets/163081348/fc361eac-97ac-4cc6-9cd0-e333fdd93014)
 
-### 🔹Activity 5 - Writing a Letter to Grandpa
-#### 🎯App #4.1-Letter Maker1
+### 🔹Activity 5 - Writing a Letter to Grandpa 
+#### 🎯App #4.1-Letter Maker1 [[Link]](
 ![Letter Maker1](https://github.com/verastudio/G2-finalproject/assets/163081348/e6b38f32-d934-4ed6-b9d1-fbe144217291)
 #### 🎯App #5-Multiple Choice Quiz App
 ![Multiple_Choice](https://github.com/verastudio/G2-finalproject/assets/163081348/0f8f89cb-d987-49db-ba0a-b24ab2918260)
 
-### 🔹Activity 6 - Writing a Letter to the Grandson
-#### 🎯App #4.2-Letter Maker2
+### 🔹Activity 6 - Writing a Letter to the Grandson [[Link]](
+#### 🎯App #4.2-Letter Maker2 [[Link]](
 ![Letter_Maker2](https://github.com/verastudio/G2-finalproject/assets/163081348/d17c69ec-3f6e-48de-8925-46d0dfe57a00)
-#### Padlet
+#### Padlet [[Link]](
 ![Padlet](https://github.com/verastudio/G2-finalproject/assets/163081348/edc34d5a-9eff-499c-926b-ac3024c07510)
 
 

@@ -22,8 +22,8 @@
 ## 🔹 Objectives
 1. **Students will be able to extract and identify keywords from listening passages.**
 2. **Students will be able to reconstruct story sequences based on audio prompts.**
-3. **Students will be able to collaboratively write a continuation of the story.**
-4. **Students will be able to write thank-you notes using learned phrases.**
+3. **Students will be able to Students will describe reconstructed story images using keywords.****
+4. **Students will be able to write thank-you letters using learned phrases.**
 
 # 📣 Lesson Plan
 

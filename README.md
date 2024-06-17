@@ -43,7 +43,7 @@
 ## 💡 QR Codes
 
 ### 🔹Activity 2 - Audio Keyword Hunt
-#### 🎯App #1-Online Dictionary [Link](https://huggingface.co/spaces/verastudio/Online_Dictionary)
+#### 🎯App #1-Online Dictionary [[Link]](https://huggingface.co/spaces/verastudio/Online_Dictionary)
 
 ![qrcode_115029130_4c746bf4f556f04013041c597c7e5760]
 
@@ -53,7 +53,10 @@
  
 #### Google Form
 ![Google Form #1](https://github.com/verastudio/G2-finalproject/assets/163081348/6fbab757-759a-444a-aa09-e58f33f8e001)
-#### 🎯[App #2-Audio Keyword HuntKeyword Cloud](https://huggingface.co/spaces/verastudio/Online_Dictionary)
+
+
+
+#### 🎯App #2-Audio Keyword [[Link]](https://huggingface.co/spaces/verastudio/keywordcloud)
 
 ![Keywordcloud (1)](https://github.com/verastudio/G2-finalproject/assets/163081348/93555cbc-60de-4397-aa90-39d61f42cdf3)
 

@@ -16,10 +16,10 @@
   
   **🔹 Objectives:**   
   
-**1️.** Students will be able to extract and identify keywords from listening passages.  -> App #1,2
-**2.** Students will be able to reconstruct story sequences based on audio prompts.  -> App #3
-**3.** Students will be able to collaboratively write a continuation of the story. 
-**4.** Students will be able to write thank-you email using learned phrases. -> App #4,5  
+**1️.** Students will be able to extract and identify keywords from listening passages.  -> App #1,2  
+**2.** Students will be able to reconstruct story sequences based on audio prompts.  -> App #3  
+**3.** Students will be able to collaboratively write a continuation of the story.   
+**4.** Students will be able to write thank-you email using learned phrases. -> App #4,5    
 
 
 ## 📣 Introduction (Soolim to be updated by Sun)

@@ -6,20 +6,70 @@
 
 ##  📣  Topic: The Lighthouse Lesson
 
-## 💡 Lesson Overview
 
-  **🔹 Goal:** Enhancing Listening and Writing Skills through Technology
-  
-  **🔹 Context:** 2nd Year Middle School Students at Intermediate Level  
-  
-  **🔹 Time:** 45 minutes  
-  
-  **🔹 Objectives:**   
-  
-**1️.** Students will be able to extract and identify keywords from listening passages.  -> App #1,2  
-**2.** Students will be able to reconstruct story sequences based on audio prompts.  -> App #3  
-**3.** Students will be able to collaboratively write a continuation of the story.   
-**4.** Students will be able to write thank-you email using learned phrases. -> App #4,5    
+---
+
+# Lesson Overview
+
+## 💡 Goal
+**Enhancing Listening and Writing Skills through Technology**
+
+## 🔹 Context
+**2nd Year Middle School Students at Intermediate Level**
+
+## 🔹 Time
+**45 minutes**
+
+## 🔹 Objectives
+1. **Students will be able to extract and identify keywords from listening passages.**
+2. **Students will be able to reconstruct story sequences based on audio prompts.**
+3. **Students will be able to collaboratively write a continuation of the story.**
+4. **Students will be able to write thank-you notes using learned phrases.**
+
+# Lesson Plan
+
+| **Activity**                                      | **Purpose**                                               | **Steps**                                                                                                                                                  | **App/Tool**                                                                                            | **Time** |
+|---------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|----------|
+| **Warm-Up**                                       | Activate prior knowledge and introduce the topic          | - Ask students if they have seen a lighthouse and its purpose                                                                                              | None                                                                                                    | 10 mins  |
+| **Audio Keyword Hunt**                            | Develop vocabulary and listening skills                   | 1. Play five key sentences from the story<br>2. Students discuss keywords in pairs using an online dictionary<br>3. Submit keywords via Google Forms<br>4. Generate live word cloud | - Online Dictionary: Image, pronunciation, example sentences (to be updated)<br>- [Keyword Cloud](https://huggingface.co/spaces/verastudio/keywordcloud)<br>- [Google Form](https://forms.gle/uyBgxdJQgPVdK2DZ8) | 20 mins  |
+| **Story Listening I - Reconstruction**            | Enhance comprehension through visual aids and sequence arrangement | 1. Play the full audio of the story<br>2. Students arrange pictures in sequence in groups<br>3. Review the correct sequence with the class                  | - [Story Reconstruction App](https://huggingface.co/spaces/verastudio/Story_Order)                       | 20 mins  |
+| **Story Listening II - Replay Writing with Keywords** | Reinforce comprehension and writing skills using keywords        | 1. Review images from the reconstruction activity<br>2. Each student selects a keyword from the Keyword Cloud<br>3. Write summaries<br>4. Submit summaries on Padlet | - [Keyword Cloud](https://huggingface.co/spaces/verastudio/keywordcloud)<br>- [Padlet](https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu) | 20 mins  |
+| **Writing a Letter to Grandpa (with more scaffolding)** | Practice formal writing and comprehension through a structured activity | 1. Write thank-you emails using Letter Maker1<br>2. Listen to Grandpa's voice email<br>3. Answer questions using a multiple-choice quiz app                | - [Letter Maker1](https://huggingface.co/spaces/verastudio/Letter_Maker1)<br>- Grandpa's Reply Video<br>- [Multiple Choice Quiz App](https://huggingface.co/spaces/verastudio/Multiple_Choice) | 20 mins  |
+| **Writing a Letter to the Grandson (with less scaffolding)** | Develop independent writing skills through a less structured activity | 1. Write thank-you emails using Letter Maker2<br>2. Submit emails on Padlet<br>3. Leave feedback on peers' emails                                           | - [Letter Maker2](https://huggingface.co/spaces/verastudio/Letter_Maker2)<br>- [Padlet](https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu) | 20 mins  |
+
+## 💡 Lesson Materials
++ Click here: [Presentation](https://prezi.com/view/I33v73YCVBnS2XYrc6LA/)
+
+## QR Codes
+### Audio Keyword Hunt
+#### Google Form
+![Google Form #1](https://github.com/verastudio/G2-finalproject/assets/163081348/6fbab757-759a-444a-aa09-e58f33f8e001)
+#### Keyword Cloud
+![Keywordcloud (1)](https://github.com/verastudio/G2-finalproject/assets/163081348/93555cbc-60de-4397-aa90-39d61f42cdf3)
+
+### Story Listening I - Reconstruction
+#### Story Reconstruction App
+![Story_Order (1)](https://github.com/verastudio/G2-finalproject/assets/163081348/7a80a46b-9fd9-46ca-9f85-5eff99c4b83a)
+
+### Story Listening II - Replay Writing with Keywords
+#### Keyword Cloud
+![Keywordcloud (1)](https://github.com/verastudio/G2-finalproject/assets/163081348/93555cbc-60de-4397-aa90-39d61f42cdf3)
+#### Padlet
+![Padlet](https://github.com/verastudio/G2-finalproject/assets/163081348/fc361eac-97ac-4cc6-9cd0-e333fdd93014)
+
+### Writing a Letter to Grandpa (with more scaffolding)
+#### Letter Maker1
+![Letter Maker1](https://github.com/verastudio/G2-finalproject/assets/163081348/e6b38f32-d934-4ed6-b9d1-fbe144217291)
+#### Multiple Choice Quiz App
+![Multiple_Choice](https://github.com/verastudio/G2-finalproject/assets/163081348/0f8f89cb-d987-49db-ba0a-b24ab2918260)
+
+### Writing a Letter to the Grandson (with less scaffolding)
+#### Letter Maker2
+![Letter_Maker2](https://github.com/verastudio/G2-finalproject/assets/163081348/d17c69ec-3f6e-48de-8925-46d0dfe57a00)
+#### Padlet
+![Padlet](https://github.com/verastudio/G2-finalproject/assets/163081348/edc34d5a-9eff-499c-926b-ac3024c07510)
+
+
 
 
 ---

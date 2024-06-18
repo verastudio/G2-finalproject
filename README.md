@@ -110,7 +110,7 @@
 - Story Listening I - Reconstruction' encourages students to work together, fostering peer collaboration and scaffolding. This helps enhance comprehension through teamwork.
 
 ### Practical Writing Practice
-Activities like 'Relay Writing with Keywords' and letter-writing exercises give students a chance to apply what they've learned in real-world contexts, helping them develop their ability to articulate their thoughts clearly.
+- Activities like 'Relay Writing with Keywords' and letter-writing exercises give students a chance to apply what they've learned in real-world contexts, helping them develop their ability to articulate their thoughts clearly.
 
 
 ## Limitations😞

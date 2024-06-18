@@ -143,8 +143,7 @@
 
 ## 🚩 Group2's Final Thoughts:
 
-In conclusion, 'The Lighthouse Lesson' leverages various apps to integrate listening and writing skills effectively. We create an interactive and engaging learning environment by using online dictionaries, keyword clouds, the Letter Maker app, and multiple-choice quizzes. These tools not only support vocabulary development and comprehension but also foster collaboration and practical writing skills. Addressing the identified limitations with targeted improvements will further enhance the effectiveness of this lesson plan.
-
+In conclusion, 'The Lighthouse Lesson' effectively integrates listening and writing skills using various apps. By utilizing online dictionaries, keyword clouds, the Letter Maker app, and multiple-choice quizzes, we create an engaging learning environment that supports vocabulary development, comprehension, collaboration, and practical writing skills. Addressing the limitations with targeted improvements will further enhance the lesson's effectiveness.
 
 
 

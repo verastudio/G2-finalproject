@@ -104,10 +104,10 @@
 
 
 ### Enhanced Interaction
-- Real-time tools like Padlet, Hugging Face Keyword Cloud, and Google Forms enhance interaction and participation, making the learning experience more dynamic.
+- Real-time tools like Padlet, Hugging Face Keyword Cloud and multiple choice, and Google Forms enhance interaction and participation, making the learning experience more dynamic.
 
 ### Collaborative Activities
--'Story Listening I - Reconstruction' encourages students to work together, fostering peer collaboration and scaffolding. This helps enhance comprehension through teamwork.
+- Story Listening I - Reconstruction' encourages students to work together, fostering peer collaboration and scaffolding. This helps enhance comprehension through teamwork.
 
 ### Practical Writing Practice
 Activities like 'Relay Writing with Keywords' and letter-writing exercises give students a chance to apply what they've learned in real-world contexts, helping them develop their ability to articulate their thoughts clearly.

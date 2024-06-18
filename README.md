@@ -100,54 +100,53 @@
 
 # 📣 Conclusion: Benefits, Limitations, and Improvements
 
-## 😃 Benefits:
+## Benefits😃 
 
-### Interactive Learning:
-- Use of online dictionaries and keyword clouds makes vocabulary learning engaging.
-- Real-time tools like Padlet, Hugging Face Keyword Cloud, and Google Forms enhance interaction and participation.
+### Engaging Vocabulary Learning
+- Using online dictionaries and keyword clouds makes learning new vocabulary much more engaging.
 
-### Collaborative Activities:
-- Group activities like 'Story Listening I - Reconstruction' foster peer collaboration and scaffolding.
-- Enhances comprehension through teamwork.
 
-### Practical Writing Practice:
-- Activities such as 'Relay Writing with Keywords' and letter-writing exercises provide real-world writing practice.
-- Helps students develop their ability to describe and articulate thoughts clearly using learned vocabulary.
+### Enhanced Interaction
+- Real-time tools like Padlet, Hugging Face Keyword Cloud, and Google Forms enhance interaction and participation, making the learning experience more dynamic.
 
-## 😞 Limitations:
+### Collaborative Activities
+-'Story Listening I - Reconstruction' encourages students to work together, fostering peer collaboration and scaffolding. This helps enhance comprehension through teamwork.
 
-### Technical Reliance:
-- Dependence on technology means technical issues can disrupt the lesson.
+### Practical Writing Practice
+Activities like 'Relay Writing with Keywords' and letter-writing exercises give students a chance to apply what they've learned in real-world contexts, helping them develop their ability to articulate their thoughts clearly.
 
-### Access Disparities:
-- Not all students may have equal access to devices or be equally comfortable using them.
 
-### Creativity Constraints:
-- Structured activities may limit creative expression for some students.
+## Limitations😞
 
-### Dictionary Usage:
-- Keywords were updated in detail by the teacher in the online dictionary.
-- Other words in the text were found only in the English-English dictionary using existing codes, which may not be as comprehensive for all students.
+### Technical Reliance
+- The reliance on technology means that technical issues can sometimes disrupt the lesson.
 
-## 😉 Improvements:
+### Access Disparities
+- Not all students may have equal access to devices or feel equally comfortable using them, creating access disparities.
 
-### Pacing Adjustments:
-- Provide differentiated pacing guides and allow for flexible timing on activities to accommodate different learning speeds.
+### Creativity Constraints
+- Structured activities can sometimes limit creative expression for some students.
 
-### Additional Support:
-- Incorporate brief tutorial videos or instructions on how to use each app for students who may be unfamiliar with the technology.
+### Dictionary Usage
+While we update keywords in detail using the online dictionary, other words in the text are found only in the English-English dictionary using existing codes, which may not be comprehensive enough for all students.
 
-### Extended Learning:
-- Provide optional extension activities for students who finish early to keep them engaged while others complete the main tasks.
+## Improvements🚀 
 
-### Regular Feedback:
-- Conduct feedback sessions with students to understand what works well and what needs adjustment for continuous improvement.
+### Adjust Pacing
+- Adjust the pacing to accommodate different learning speeds.
+
+### Additional Support
+- Provide additional support, like brief tutorial videos or instructions on how to use each app, to assist students who are less familiar with the technology.
+
+### Optional Extension Activities
+- Offer optional extension activities for students who finish early to keep them engaged while others complete the main tasks.
+
+### Regular Feedback
+- Conduct regular feedback sessions with students to understand what works well and what needs adjustment, ensuring continuous improvement.
 
 ## 🚩 Group2's Final Thoughts:
 
-This lesson plan integrates listening and writing skills with interactive technology tools to enhance student engagement and learning outcomes. By using apps like Google Forms, Padlet, and collaborative documents, students can actively participate in various activities that reinforce their understanding and application of the English language.
-
-
+In conclusion, this lesson plan effectively integrates listening and writing skills with interactive technology tools. By using apps like Google Forms, Padlet, and collaborative documents, students can actively participate in various activities, reinforcing their understanding and application of the English language.
 
 
 

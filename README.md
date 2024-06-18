@@ -143,7 +143,7 @@ While we update keywords in detail using the online dictionary, other words in t
 
 ## 🚩 Group2's Final Thoughts:
 
-In conclusion, this lesson plan effectively integrates listening and writing skills with interactive technology tools. By using apps like Google Forms, Padlet, and collaborative documents, students can actively participate in various activities, reinforcing their understanding and application of the English language.
+In conclusion, 'The Lighthouse Lesson' leverages various apps to integrate listening and writing skills effectively. By using online dictionaries, keyword clouds, the Letter Maker app, and multiple-choice quizzes, we create an interactive and engaging learning environment. These tools not only support vocabulary development and comprehension but also foster collaboration and practical writing skills. Addressing the identified limitations with targeted improvements will further enhance the effectiveness of this lesson plan. Thank you for your attention.
 
 
 

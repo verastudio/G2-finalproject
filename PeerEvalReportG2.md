@@ -1,4 +1,4 @@
-# 💕 Peer Evaluation Review for Group 2 (0619, by MK316)
+# 💕 Peer Evaluation & Presentation Review for Group 2 (0619, by MK316)
 
 + Your presentation on integrating various apps to facilitate listening and especially writing activities in the classroom was impressive. The inventive use of QR codes and the classroom dictionary created via Google Sheets/Excel showcased a thoughtful approach to managing classroom vocabulary, making it easily accessible for students. Your initiative to enable students to engage creatively through the Letter Maker app was highly effective, providing a meaningful connection to the character in the story while offering scaffolding for writing tasks.
 

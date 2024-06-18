@@ -16,9 +16,6 @@
 ## 🔹 Time
 **45 minutes**
 
-## 🔹 Goal
-**Enhancing Listening and Writing Skills through Technology**
-
 ## 🔹 Objectives
 1. **Students will be able to extract and identify keywords from listening passages.**
 2. **Students will be able to reconstruct story sequences based on audio prompts.**

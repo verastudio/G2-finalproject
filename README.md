@@ -125,7 +125,7 @@
 - Structured activities can sometimes limit creative expression for some students.
 
 ### Dictionary Usage
-While we update keywords in detail using the online dictionary, other words in the text are found only in the English-English dictionary using existing codes, which may not be comprehensive enough for all students.
+- While we update keywords in detail using the online dictionary, other words in the text are found only in the English-English definition, which may not be comprehensive enough for all students.
 
 ## Improvements🚀 
 

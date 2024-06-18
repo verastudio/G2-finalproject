@@ -107,16 +107,15 @@
 - Real-time tools like Padlet, Hugging Face Keyword Cloud and multiple choice, and Google Forms enhance interaction and participation, making the learning experience more dynamic.
 
 ### Collaborative Activities
-- Story Listening I - Reconstruction' encourages students to work together, fostering peer collaboration and scaffolding. This helps enhance comprehension through teamwork.
+- Story order activity encourages students to work together, fostering peer collaboration and scaffolding. This helps enhance comprehension through teamwork.
 
 ### Practical Writing Practice
-- Activities like 'Relay Writing with Keywords' and letter-writing exercises give students a chance to apply what they've learned in real-world contexts, helping them develop their ability to articulate their thoughts clearly.
-
+- Letter-writing activities allow students to apply their learning in real-world contexts, enhancing their ability to articulate thoughts clearly.
 
 ## Limitations😞
 
 ### Technical Reliance
-- The reliance on technology means that technical issues can sometimes disrupt the lesson.
+- The reliance on technology means technical issues can sometimes disrupt the lesson.
 
 ### Access Disparities
 - Not all students may have equal access to devices or feel equally comfortable using them, creating access disparities.
